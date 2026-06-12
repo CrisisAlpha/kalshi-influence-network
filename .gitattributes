@@ -1,0 +1,7 @@
+# Normalize line endings so 100 contributors on Windows/macOS/Linux produce
+# clean, consistent diffs instead of CRLF/LF churn.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.gif binary

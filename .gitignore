@@ -1,0 +1,24 @@
+# --- Generated build artifacts (the graph is built from data/*.json) ---
+kalshi_influence_network.html
+nodes.csv
+edges.csv
+site/
+
+# --- One-shot migration helpers (kept out of the repo) ---
+extract_data.py
+refactor_build.py
+fix_quotes.py
+fix_source_quotes.py
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

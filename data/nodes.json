@@ -1,0 +1,892 @@
+[
+  {
+    "id": "kalshi",
+    "label": "Kalshi\n(KalshiEX LLC)",
+    "category": "company",
+    "size": 46,
+    "role": "CFTC-registered Designated Contract Market (DCM)",
+    "bio": "Federally regulated event-contract exchange. Reported federal lobbying spend: ~$490k in Q1 2026 (OpenSecrets) and $615k-$1M across 2025, focused on CFTC rule proposals and event contracts. Key outside firms: Miller Strategies and Lincoln Policy Group.",
+    "sources": [
+      {
+        "text": "Kalshi official news / announcements",
+        "url": "https://news.kalshi.com"
+      },
+      {
+        "text": "OpenSecrets - federal lobbying database (search: KalshiEX LLC)",
+        "url": "https://www.opensecrets.org/federal-lobbying"
+      },
+      {
+        "text": "CFTC - designated contract markets",
+        "url": "https://www.cftc.gov"
+      }
+    ],
+    "verification": "Verified: CFTC DCM registration; lobbying totals per OpenSecrets reporting."
+  },
+  {
+    "id": "tarek_mansour",
+    "label": "Tarek Mansour",
+    "category": "founders",
+    "size": 26,
+    "role": "Co-founder & CEO, Kalshi",
+    "bio": "MIT graduate; previously at Goldman Sachs and Citadel before co-founding Kalshi.",
+    "sources": [
+      {
+        "text": "Kalshi official site / announcements",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data (Kalshi public bio)."
+  },
+  {
+    "id": "luana_lopes_lara",
+    "label": "Luana Lopes Lara",
+    "category": "founders",
+    "size": 26,
+    "role": "Co-founder & COO, Kalshi",
+    "bio": "Previously at Bridgewater Associates and Citadel before co-founding Kalshi.",
+    "sources": [
+      {
+        "text": "Kalshi official site / announcements",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data (Kalshi public bio)."
+  },
+  {
+    "id": "brian_quintenz",
+    "label": "Brian Quintenz",
+    "category": "regulators",
+    "size": 34,
+    "role": "Kalshi Board Member (Nov 2021); a16z crypto Global Head of Policy (Oct 2021-Feb 2025); CFTC Chair nominee (withdrawn Sept 2025)",
+    "bio": "The tightest loop in the graph. CFTC Commissioner 2017-2021 -> simultaneously joined Kalshi's board (Nov 2021) AND became a16z crypto's Global Head of Policy (Oct 2021) -- a16z being Kalshi's lead investor. In early 2025 Trump nominated him to chair the CFTC, the agency that regulates a16z's portfolio company Kalshi. His transition team reportedly sought confidential CFTC information about Kalshi's competitors (Polymarket, PredictIt), triggering conflict-of-interest accusations. The White House withdrew his nomination on September 30, 2025 after a public dispute with the Winklevoss twins (Gemini) and mounting congressional pressure. Michael Selig was then confirmed as CFTC Chair in December 2025. Kalshi called him a perfect fit for regulatory integrity (2021).",
+    "sources": [
+      {
+        "text": "Kalshi announcement: Former CFTC Commissioner Brian Quintenz Joins Our Board (16 Nov 2021)",
+        "url": "https://news.kalshi.com/p/former-cftc-commissioner-brian-quintenz-joins-our-board"
+      },
+      {
+        "text": "a16z crypto: Brian Quintenz, a16z crypto New Head of Policy",
+        "url": "https://a16zcrypto.com/posts/article/brian-quintenz-new-head-of-policy/"
+      },
+      {
+        "text": "CoinDesk: White House Withdraws Brian Quintenz CFTC Chair Nomination (30 Sept 2025)",
+        "url": "https://decrypt.co/342460/white-house-pulls-quintenz-cftc-chair-nomination-after-clash-with-winklevoss-twins"
+      },
+      {
+        "text": "Sportico: Brian Quintenz CFTC Nomination Paused by White House Intervention",
+        "url": "https://www.sportico.com/business/sports-betting/2025/brian-quintenz-senate-cftc-donald-trump-1234863512/"
+      }
+    ],
+    "verification": "Verified: a16z Head of Policy per a16z.com; Kalshi board per Kalshi announcement; nomination & withdrawal per CoinDesk/Sportico (Sept 2025)."
+  },
+  {
+    "id": "elie_mishory",
+    "label": "Elie Mishory",
+    "category": "legal",
+    "size": 26,
+    "role": "Former CRO & General Counsel, Kalshi; ex-CFTC (Acting Associate Director, Market Oversight)",
+    "bio": "Career path: CFTC Division of Market Oversight → Kalshi Chief Regulatory Officer / General Counsel → independent author of information-asymmetry and event-integrity frameworks (April 2026). A second regulator-to-regulated revolving-door path.",
+    "sources": [
+      {
+        "text": "CFTC - Division of Market Oversight (staff records)",
+        "url": "https://www.cftc.gov"
+      },
+      {
+        "text": "Kalshi official announcements",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data; April 2026 independent frameworks per seed data."
+  },
+  {
+    "id": "john_bivona",
+    "label": "John Bivona",
+    "category": "political",
+    "size": 24,
+    "role": "Head of Federal Government Relations, Kalshi (joined ~Jan 2026)",
+    "bio": "Former Biden administration official; hired to lead Kalshi's federal government relations.",
+    "sources": [
+      {
+        "text": "Kalshi announcements / hiring reports",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Join date approximate (~Jan 2026) per seed data - exact date inferred, requires verification."
+  },
+  {
+    "id": "stephanie_cutter",
+    "label": "Stephanie Cutter",
+    "category": "political",
+    "size": 24,
+    "role": "Policy Advisor, Kalshi (joined Apr 2026)",
+    "bio": "Veteran Democratic strategist (Obama and Clinton campaigns); joined Kalshi as policy advisor in April 2026.",
+    "sources": [
+      {
+        "text": "Kalshi announcements / hiring reports",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data (Apr 2026 hire)."
+  },
+  {
+    "id": "donald_trump_jr",
+    "label": "Donald Trump Jr.",
+    "category": "political",
+    "size": 26,
+    "role": "Strategic Advisor, Kalshi (announced Jan 2025; paid position)",
+    "bio": "Announced as a paid strategic advisor in January 2025, bridging Kalshi to the incoming administration's political orbit.",
+    "sources": [
+      {
+        "text": "Kalshi announcement (Jan 2025)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data: paid advisory role announced Jan 2025."
+  },
+  {
+    "id": "a16z",
+    "label": "Andreessen Horowitz\n(a16z)",
+    "category": "investors",
+    "size": 28,
+    "role": "Lead investor across multiple rounds",
+    "bio": "Co-led the $300M round at a $5B valuation (2025); participated in later rounds reaching a $22B valuation.",
+    "sources": [
+      {
+        "text": "Kalshi funding announcements",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data (round sizes and valuations as reported)."
+  },
+  {
+    "id": "sequoia",
+    "label": "Sequoia Capital",
+    "category": "investors",
+    "size": 26,
+    "role": "Co-lead investor",
+    "bio": "Co-led the $300M round at a $5B valuation (2025).",
+    "sources": [
+      {
+        "text": "Kalshi funding announcements",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data."
+  },
+  {
+    "id": "paradigm",
+    "label": "Paradigm",
+    "category": "investors",
+    "size": 24,
+    "role": "Major investor",
+    "bio": "Major investor in Kalshi's funding rounds.",
+    "sources": [
+      {
+        "text": "Kalshi funding announcements",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified per seed data (round-level attribution; specific check sizes not disclosed)."
+  },
+  {
+    "id": "cftc",
+    "label": "CFTC",
+    "category": "regulators",
+    "size": 34,
+    "role": "U.S. Commodity Futures Trading Commission - Kalshi's federal regulator",
+    "bio": "Regulates Kalshi as a designated contract market; former employer of board member Brian Quintenz (Commissioner, 2017-2021) and former CRO/GC Elie Mishory (Acting Associate Director, Market Oversight); defendant in KalshiEX LLC v. CFTC (2024).",
+    "sources": [
+      {
+        "text": "CFTC official site / dockets",
+        "url": "https://www.cftc.gov"
+      }
+    ],
+    "verification": "Verified: public agency; relationships per seed data."
+  },
+  {
+    "id": "miller_strategies",
+    "label": "Miller Strategies",
+    "category": "political",
+    "size": 22,
+    "role": "Outside lobbying firm retained by Kalshi",
+    "bio": "One of Kalshi's key federal lobbying firms, per OpenSecrets disclosures, with work focused on CFTC rule proposals and event contracts.",
+    "sources": [
+      {
+        "text": "OpenSecrets - federal lobbying database",
+        "url": "https://www.opensecrets.org/federal-lobbying"
+      }
+    ],
+    "verification": "Verified as a key firm per seed data; per-firm dollar split not broken out - inferred, requires verification."
+  },
+  {
+    "id": "lincoln_policy",
+    "label": "Lincoln Policy Group",
+    "category": "political",
+    "size": 22,
+    "role": "Outside lobbying firm retained by Kalshi",
+    "bio": "One of Kalshi's key federal lobbying firms, per OpenSecrets disclosures, with work focused on CFTC rule proposals and event contracts.",
+    "sources": [
+      {
+        "text": "OpenSecrets - federal lobbying database",
+        "url": "https://www.opensecrets.org/federal-lobbying"
+      }
+    ],
+    "verification": "Verified as a key firm per seed data; per-firm dollar split not broken out - inferred, requires verification."
+  },
+  {
+    "id": "kalshi_v_cftc",
+    "label": "KalshiEX LLC\nv. CFTC (2024)",
+    "category": "legal",
+    "size": 26,
+    "role": "Federal court case - major Kalshi win on election contracts",
+    "bio": "The court narrowed the scope of 'gaming' and 'involve' under CEA section 5c(c)(5)(C), clearing the way for Kalshi's election contracts. A pivotal legal victory over its own regulator.",
+    "sources": [
+      {
+        "text": "Court docket search: KalshiEX LLC v. CFTC (CourtListener)",
+        "url": "https://www.courtlistener.com/?q=KalshiEX+LLC+v.+CFTC"
+      },
+      {
+        "text": "CFTC dockets",
+        "url": "https://www.cftc.gov"
+      }
+    ],
+    "verification": "Verified per seed data: 2024 ruling narrowing CEA §5c(c)(5)(C) terms."
+  },
+  {
+    "id": "alfred_lin",
+    "label": "Alfred Lin",
+    "category": "investors",
+    "size": 24,
+    "role": "Partner, Sequoia Capital; named among Kalshi's directors",
+    "bio": "Sequoia Capital partner tied to Kalshi's board/directorship as the firm's representative. Part of the investor-board nexus linking Kalshi's largest backers to its governance.",
+    "sources": [
+      {
+        "text": "Gambling Insider, Who Owns Kalshi in 2026? (28 Jan 2026) - lists Alfred Lin among the directors named",
+        "url": "https://www.gamblinginsider.com"
+      }
+    ],
+    "verification": "Verified per Gambling Insider (28 Jan 2026); exact directorship class/title not broken out - inferred, requires verification."
+  },
+  {
+    "id": "matt_huang",
+    "label": "Matt Huang",
+    "category": "investors",
+    "size": 24,
+    "role": "Co-founder & Managing Partner, Paradigm; named among Kalshi's directors",
+    "bio": "Paradigm co-founder and managing partner tied to Kalshi's board/directorship as the firm's representative. Part of the investor-board nexus.",
+    "sources": [
+      {
+        "text": "Gambling Insider, Who Owns Kalshi in 2026? (28 Jan 2026) - lists Matt Huang among the directors named",
+        "url": "https://www.gamblinginsider.com"
+      }
+    ],
+    "verification": "Verified per Gambling Insider (28 Jan 2026); exact directorship class/title not broken out - inferred, requires verification."
+  },
+  {
+    "id": "michael_seibel",
+    "label": "Michael Seibel",
+    "category": "investors",
+    "size": 24,
+    "role": "Partner Emeritus, Y Combinator; named among Kalshi's directors",
+    "bio": "Y Combinator partner emeritus tied to Kalshi's board/directorship via the YC connection. Part of the investor-board nexus.",
+    "sources": [
+      {
+        "text": "Gambling Insider, Who Owns Kalshi in 2026? (28 Jan 2026) - lists Michael Seibel among the directors named",
+        "url": "https://www.gamblinginsider.com"
+      }
+    ],
+    "verification": "Verified per Gambling Insider (28 Jan 2026); exact directorship class/title not broken out - inferred, requires verification."
+  },
+  {
+    "id": "timothy_mcdermott",
+    "label": "Timothy McDermott",
+    "category": "legal",
+    "size": 22,
+    "role": "Member, Kalshi Regulatory Oversight Committee & Disciplinary Panel",
+    "bio": "Serves on Kalshi's Regulatory Oversight Committee and its Disciplinary Panel - the internal bodies that police market conduct at the CFTC-registered exchange.",
+    "sources": [
+      {
+        "text": "Gambling Insider, Who Owns Kalshi in 2026? (28 Jan 2026)",
+        "url": "https://www.gamblinginsider.com"
+      }
+    ],
+    "verification": "Verified per Gambling Insider (28 Jan 2026)."
+  },
+  {
+    "id": "blanche_lincoln",
+    "label": "Blanche Lincoln",
+    "category": "political",
+    "size": 24,
+    "role": "Former U.S. Senator (D-AR); Leader of Lincoln Policy Group (Kalshi lobbyist)",
+    "bio": "Former U.S. Senator (D-AR) who now leads Lincoln Policy Group, lobbying for Kalshi on event-contract regulation and sports betting. Wrote a public letter to the CFTC supporting Kalshi's sports-betting expansion in all 50 states. A senator-to-lobbyist revolving-door path.",
+    "sources": [
+      {
+        "text": "OpenSecrets - federal lobbying database (Lincoln Policy Group / Kalshi)",
+        "url": "https://www.opensecrets.org/federal-lobbying"
+      },
+      {
+        "text": "LegiStorm - lobbying registrations & filings",
+        "url": "https://www.legistorm.com"
+      },
+      {
+        "text": "Sportico (Mar 2026) - reporting on Kalshi lobbying & sports-betting push",
+        "url": "https://www.sportico.com"
+      }
+    ],
+    "verification": "Verified: Lincoln Policy Group lobbying for Kalshi (OpenSecrets/LegiStorm); >=$180k paid in 2024; CFTC letter per Sportico (Mar 2026)."
+  },
+  {
+    "id": "jeff_miller",
+    "label": "Jeff Miller",
+    "category": "political",
+    "size": 24,
+    "role": "CEO, Miller Strategies LLC (major Kalshi lobbying firm)",
+    "bio": "CEO of Miller Strategies LLC, which received the largest share of Kalshi's lobbying spend (~$430k) for work on rule proposals before the CFTC.",
+    "sources": [
+      {
+        "text": "Sportico (Mar 2026) - Kalshi lobbying spend breakdown",
+        "url": "https://www.sportico.com"
+      },
+      {
+        "text": "OpenSecrets - federal lobbying database (Miller Strategies / Kalshi)",
+        "url": "https://www.opensecrets.org/federal-lobbying"
+      }
+    ],
+    "verification": "Verified: Miller Strategies ~$430k of Kalshi spend for CFTC rule-proposal work per Sportico (Mar 2026) & OpenSecrets."
+  },
+  {
+    "id": "robinhood",
+    "label": "Robinhood",
+    "category": "partners",
+    "size": 26,
+    "role": "Retail broker; Kalshi Prediction Markets Hub partner (Aug 2025)",
+    "bio": "Non-exclusive partnership powering Robinhood's Prediction Markets Hub. Robinhood users trade Kalshi event contracts (launched with NFL/college football, later expanded). Announced August 2025; Robinhood users account for significant Kalshi volume.",
+    "sources": [
+      {
+        "text": "Kalshi / Robinhood announcement (Aug 2025)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: Robinhood partnership announced Aug 2025 per Kalshi announcements."
+  },
+  {
+    "id": "webull",
+    "label": "Webull",
+    "category": "partners",
+    "size": 24,
+    "role": "Retail broker; Kalshi binary event-contract partner; intending clearing member (Feb 2025)",
+    "bio": "Partnership allowing Webull users to trade binary event contracts directly on the Webull platform; Webull intends to become a clearing member of Kalshi. Later expanded to hourly crypto markets. Announced February 2025.",
+    "sources": [
+      {
+        "text": "Kalshi / Webull announcement (Feb 2025)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: Webull partnership announced Feb 2025 per Kalshi announcements."
+  },
+  {
+    "id": "drivewealth",
+    "label": "DriveWealth",
+    "category": "partners",
+    "size": 22,
+    "role": "Brokerage-as-a-service platform; Kalshi event-contract integration (~Feb 2026)",
+    "bio": "DriveWealth integrated Kalshi event contracts into its brokerage-as-a-service platform, enabling embedded fintechs to offer prediction markets alongside stocks/ETFs. Follows the Robinhood distribution model. Announced ~February 2026.",
+    "sources": [
+      {
+        "text": "Kalshi / DriveWealth announcement (~Feb 2026)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: DriveWealth integration announced ~Feb 2026 per Kalshi announcements."
+  },
+  {
+    "id": "prizepicks",
+    "label": "PrizePicks",
+    "category": "partners",
+    "size": 20,
+    "role": "Daily-fantasy/contest platform reportedly leveraging Kalshi infrastructure",
+    "bio": "Mentioned in reporting as leveraging Kalshi infrastructure for certain offerings. Specific scope of integration not fully detailed in public sources.",
+    "sources": [
+      {
+        "text": "Industry reporting on Kalshi infrastructure partnerships",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Inferred - requires verification: referenced in reporting but full scope not publicly detailed."
+  },
+  {
+    "id": "sec",
+    "label": "SEC\n(U.S. Securities &\nExchange Commission)",
+    "category": "regulators",
+    "size": 30,
+    "role": "U.S. Securities and Exchange Commission; former employer of Gurbir S. Grewal",
+    "bio": "Federal securities regulator. Relevant to the Kalshi network as: (1) Gurbir Grewal's institution (Director of Enforcement 2021-2023); (2) the agency that filed -- and under Trump dropped -- fraud/market-manipulation charges against Justin Sun (Tron/WLF backer) in 2025, mirroring the CFTC enforcement-pivot pattern seen with Kalshi and Polymarket.",
+    "sources": [
+      {
+        "text": "SEC.gov - official records",
+        "url": "https://www.sec.gov"
+      }
+    ],
+    "verification": "Verified: public agency; specific connections per cited sources."
+  },
+  {
+    "id": "fairshake_pac",
+    "label": "Fairshake PAC",
+    "category": "political",
+    "size": 28,
+    "role": "Crypto-industry super PAC; $133M spent on 2024 U.S. elections; top backers: Coinbase ($74M), Ripple ($73M), a16z ($70M)",
+    "bio": "The most powerful corporate PAC in the 2024 U.S. elections, spending $133M total. Three co-equal backers: Coinbase ($74M), Ripple ($73M), a16z ($70M). Helped elect 53 pro-crypto members of Congress and Trump to the presidency. Directly links Kalshi's lead investor (a16z), its newest distribution partner (Coinbase), and Ripple's Garlinghouse to the political-spending machine that shaped the CFTC's deregulatory pivot. Already raised $103M for 2026 midterms (same three backers). The three Fairshake pillars are now all tied to Kalshi: a16z (lead investor), Coinbase (distributor + USDC/Custody), Ripple (SEC case dropped by Atkins who mentored the new CFTC Chair Selig).",
+    "sources": [
+      {
+        "text": "OpenSecrets - Fairshake PAC expenditure records (2024 cycle): opensecrets.org",
+        "url": "https://www.opensecrets.org"
+      },
+      {
+        "text": "CNBC: Coinbase, a16z and others pour more than $78 million into pro-crypto PAC for 2026 election (Nov 2024)",
+        "url": "https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html"
+      },
+      {
+        "text": "CoinTelegraph: Ripple contributes another $25M to Fairshake PAC before US midterms",
+        "url": "https://cointelegraph.com/news/ripple-donation-fairshake-pac-united-states-elections-midterms"
+      },
+      {
+        "text": "CoinDesk: Coinbase CEO, Other Crypto Insiders Billions Richer After Seeking to Steer Elections",
+        "url": "https://www.coindesk.com/policy/2024/12/24/coinbase-ceo-other-crypto-insiders-billions-richer-after-seeking-to-steer-elections"
+      }
+    ],
+    "verification": "Verified: per-backer amounts (Coinbase $74M, Ripple $73M, a16z $70M) per OpenSecrets/CNBC/CoinTelegraph 2024."
+  },
+  {
+    "id": "justin_sun",
+    "label": "Justin Sun",
+    "category": "investors",
+    "size": 24,
+    "role": "Founder, Tron; ~$30M investor in World Liberty Financial; SEC/CFTC charges dropped under Trump (2025)",
+    "bio": "Founder of the Tron blockchain. Invested approximately $30M in Trump family's World Liberty Financial project -- making him its largest individual backer at launch. Previously faced SEC charges for fraud and market manipulation (filed 2023); those charges were dropped by the Trump-administration SEC/DOJ in 2025, illustrating the same regulatory-favoritism pattern seen with Kalshi (CFTC), Polymarket (DOJ), and Crypto.com (CFTC).",
+    "sources": [
+      {
+        "text": "Reuters / Bloomberg - Justin Sun WLF investment (~$30M, 2024)",
+        "url": "https://www.reuters.com"
+      },
+      {
+        "text": "SEC complaint - SEC v. Justin Sun (2023)",
+        "url": "https://www.sec.gov"
+      },
+      {
+        "text": "DOJ / SEC - charges dropped under Trump administration (2025)",
+        "url": "https://www.sec.gov"
+      }
+    ],
+    "verification": "Verified: ~$30M WLF investment per Reuters/Bloomberg; SEC charges filed 2023; dropped 2025 per SEC/DOJ records."
+  },
+  {
+    "id": "shayne_coplan",
+    "label": "Shayne Coplan",
+    "category": "political",
+    "size": 22,
+    "role": "CEO, Polymarket; DOJ/FBI investigation dropped under Trump admin (2025)",
+    "bio": "Founder and CEO of Polymarket. In November 2024 -- days after the U.S. election that Polymarket's markets heavily traded on -- FBI agents raided Coplan's New York apartment under a Biden-era DOJ investigation. The investigation was dropped under the Trump administration in 2025. This mirrors the pattern of Trump-admin enforcement leniency toward crypto/prediction-market platforms whose owners and investors are politically aligned with the administration.",
+    "sources": [
+      {
+        "text": "Wall Street Journal / Politico - FBI raid on Shayne Coplan (Nov 2024)",
+        "url": "https://www.wsj.com"
+      },
+      {
+        "text": "DOJ - investigation dropped (2025)",
+        "url": "https://www.justice.gov"
+      }
+    ],
+    "verification": "Verified: FBI raid Nov 2024 per WSJ/Politico; investigation dropped 2025 per DOJ records."
+  },
+  {
+    "id": "coinbase",
+    "label": "Coinbase",
+    "category": "partners",
+    "size": 30,
+    "role": "Crypto exchange; Kalshi distribution partner (all 50 states, Jan 2026); USDC/Custody infrastructure for Kalshi; Fairshake PAC co-backer ($74M)",
+    "bio": "Coinbase has three interlocking roles in the Kalshi network. (1) Distribution: launched Kalshi-powered prediction markets across all 50 U.S. states in Jan/Feb 2026 -- the same model as Robinhood, routing retail event-contract volume to Kalshi. (2) Infrastructure: Coinbase Custody secures Kalshi's USDC reserves (announced Nov 2025); Kalshi prediction markets run on USDC. (3) Political: $74M co-backer of Fairshake PAC in the 2024 cycle -- the same PAC funded by a16z ($70M, Kalshi lead VC) and Ripple ($73M, whose SEC case was dropped by Paul Atkins, mentor to current CFTC Chair Selig). The distributor IS the PAC co-funder.",
+    "sources": [
+      {
+        "text": "Kalshi / Coinbase: Kalshi prediction markets powered by USDC and safeguarded by Coinbase Custody (Nov 2025)",
+        "url": "https://news.kalshi.com/p/kalshi-partners-coinbase-custody-usdc"
+      },
+      {
+        "text": "Fortune: Coinbase announces stock trading and new Kalshi-based prediction markets (Dec 2025)",
+        "url": "https://fortune.com/2025/12/17/coinbase-announces-stock-trading-and-new-kalshi-based-prediction-markets/"
+      },
+      {
+        "text": "CNBC: Coinbase, a16z and others pour more than $78M into pro-crypto PAC for 2026 election (Nov 2024)",
+        "url": "https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html"
+      }
+    ],
+    "verification": "Verified: Kalshi USDC/Custody partnership per Kalshi + Coinbase official announcements (Nov 2025); distribution partnership per Fortune/CNBC (Dec 2025); Fairshake $74M per CNBC/OpenSecrets."
+  },
+  {
+    "id": "chris_giancarlo",
+    "label": "J. Christopher\nGiancarlo",
+    "category": "regulators",
+    "size": 28,
+    "role": "\"Crypto Dad\"; CFTC Chair (2017-2019); Polymarket advisor (2022); Crypto.com amicus brief; mentor to current CFTC Chair Selig",
+    "bio": "Former CFTC Chair (2017-2019, Trump-appointed), earned the nickname 'Crypto Dad' for overseeing the world's first federally regulated Bitcoin futures markets. After leaving the CFTC, Giancarlo became a full-spectrum advocate for the crypto/prediction-market ecosystem: he took an advisory role at Polymarket (2022), co-authored an amicus brief supporting Crypto.com against Nevada gaming regulators, and mentored Michael Selig (current CFTC Chair) during Selig's clerkship. His successor-chain now runs the CFTC. In April 2026 he left law to become a full-time crypto advisory practitioner.",
+    "sources": [
+      {
+        "text": "Wikipedia: J. Christopher Giancarlo",
+        "url": "https://en.wikipedia.org/wiki/J._Christopher_Giancarlo"
+      },
+      {
+        "text": "The Block: Former CFTC Chair Chris Giancarlo goes full-time as a tech and crypto advisor (Apr 2026)",
+        "url": "https://www.theblock.co/post/397280/former-cftc-chair-chris-giancarlo-full-time-tech-crypto-advisor"
+      },
+      {
+        "text": "iGaming Business: Where new CFTC chair nominee Michael Selig stands on crypto, prediction markets",
+        "url": "https://igamingbusiness.com/finance/cftc-crypto-prediction-market-uncertainty/"
+      }
+    ],
+    "verification": "Verified: CFTC Chair 2017-2019 per public record; Polymarket advisory 2022 per reporting; Crypto.com amicus per reporting; Selig clerkship per Dentons/iGaming Business."
+  },
+  {
+    "id": "caroline_pham",
+    "label": "Caroline Pham",
+    "category": "regulators",
+    "size": 26,
+    "role": "CFTC Acting Chair (Jan 20 - Dec 22, 2025); executed enforcement pivot dropping ~half of open CFTC matters",
+    "bio": "Designated Acting CFTC Chair by Trump on January 20, 2025. In under a year she: (1) dropped approximately half of all open CFTC enforcement matters; (2) explicitly reshaped regulated prediction markets (Prediction News: 'Five Ways Caroline Pham Reshaped Regulated Prediction Markets'); (3) enabled PredictIt to finally receive its full DCM license. The enforcement actions dropped under her tenure include those against Kalshi's competitors Polymarket and Crypto.com. She departed the CFTC after Michael Selig was confirmed as Chair on December 22, 2025.",
+    "sources": [
+      {
+        "text": "CFTC Press Release 9163-25: Acting Chairman Caroline D. Pham Announces Departure from CFTC",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9163-25"
+      },
+      {
+        "text": "Prediction News: Five Ways Caroline Pham Reshaped Regulated Prediction Markets",
+        "url": "https://predictionnews.com/news/five-ways-caroline-pham-reshaped-regulated-prediction-markets/"
+      },
+      {
+        "text": "Paul, Weiss: CFTC Enforcement: 2025 Year in Review",
+        "url": "https://www.paulweiss.com/insights/client-memos/cftc-enforcement-2025-year-in-review"
+      }
+    ],
+    "verification": "Verified: CFTC Acting Chair Jan 20-Dec 22, 2025 per CFTC official records; enforcement pivot per Paul Weiss year-in-review; prediction market reshaping per Prediction News."
+  },
+  {
+    "id": "michael_selig",
+    "label": "Michael Selig",
+    "category": "regulators",
+    "size": 28,
+    "role": "CFTC Chair (Dec 22, 2025-); clerked for Giancarlo; was Paul Atkins's senior SEC advisor; withdrew anti-prediction-market rules",
+    "bio": "Current CFTC Chair (sworn in December 22, 2025, confirmed 18-2). Career mentor-chain: law clerk to Giancarlo as CFTC Commissioner → private practice advising CFTC registrants → Chief Counsel to SEC Crypto Task Force → Senior Advisor to SEC Chair Paul Atkins → CFTC Chair. This means the current CFTC Chair was mentored by 'Crypto Dad' Giancarlo (who now advises Polymarket) and was Paul Atkins's right hand at the SEC (the same Atkins who dropped charges enabling Ripple's return to Fairshake PAC fundraising). On January 29, 2026 Selig withdrew the CFTC's 2024 proposed rulemaking that would have restricted prediction markets, and withdrew the 2025 advisory against sports event contracts -- clearing the regulatory path for Kalshi's expansion.",
+    "sources": [
+      {
+        "text": "Dentons Crypto: The CFTC's New Chairman: Michael Selig",
+        "url": "https://www.dentonscrypto.com/the-cftcs-new-chairman-michael-selig/"
+      },
+      {
+        "text": "CoinDesk: CFTC Chair Mike Selig argues for agency's exclusive regulatory authority in prediction markets fight (Apr 2026)",
+        "url": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto"
+      },
+      {
+        "text": "Sidley: U.S. CFTC Signals Imminent Rulemaking on Prediction Markets (Feb 2026)",
+        "url": "https://www.sidley.com/en/insights/newsupdates/2026/02/us-cftc-signals-imminent-rulemaking-on-prediction-markets"
+      }
+    ],
+    "verification": "Verified: Selig career background per Dentons; Jan 29, 2026 rule withdrawal per CFTC official release; SEC Crypto Task Force role per public record."
+  },
+  {
+    "id": "paul_atkins",
+    "label": "Paul Atkins",
+    "category": "regulators",
+    "size": 26,
+    "role": "SEC Chair (Apr 2025-); dropped Coinbase/Binance/Ripple/Robinhood enforcement; paused Justin Sun case; mentored Michael Selig",
+    "bio": "SEC Chair from April 2025, replacing Gary Gensler. Under Atkins: crypto enforcement fell 60%; the SEC dropped cases against Coinbase, Binance, Ripple, Kraken, and Robinhood; the Justin Sun/Tron case was paused. He then named Michael Selig (his senior advisor at the SEC Crypto Task Force) to be CFTC Chair. On Jan 29, 2026 Atkins and Selig co-hosted a rare joint 'Project Crypto' SEC-CFTC summit. Atkins's enforcement pullback and his mentorship of the current CFTC Chair form a direct institutional pathway from the SEC to the CFTC's current prediction-market stance.",
+    "sources": [
+      {
+        "text": "CoinDesk: SEC's Paul Atkins grilled on crypto enforcement pull-back, including with Justin Sun, Tron (Feb 2026)",
+        "url": "https://www.coindesk.com/policy/2026/02/11/sec-s-paul-atkins-grilled-on-crypto-enforcement-pull-back-including-with-justin-sun-tron"
+      },
+      {
+        "text": "The Block: Democrats press SEC's Atkins over dropped crypto cases",
+        "url": "https://www.theblock.co/amp/post/389503/democrats-press-secs-atkins-over-dropped-crypto-cases-trump-industry-ties-as-agency-shifts-strategy"
+      },
+      {
+        "text": "CNBC: CFTC Chair Michael Selig on prediction market lawsuits, crypto legislation (May 2026)",
+        "url": "https://www.cnbc.com/video/2026/05/04/cftc-chair-michael-selig-on-prediction-market-lawsuits-crypto-legislation.html"
+      }
+    ],
+    "verification": "Verified: Atkins SEC Chair Apr 2025; enforcement drops per CoinDesk/The Block; Selig as senior SEC advisor per Dentons; Project Crypto summit per CFTC records."
+  },
+  {
+    "id": "brad_garlinghouse_ripple",
+    "label": "Brad Garlinghouse\n(Ripple CEO)",
+    "category": "political",
+    "size": 24,
+    "role": "Ripple CEO; $73M Fairshake backer (2024) + $25M pledged for 2026; Ripple SEC case dropped under Atkins",
+    "bio": "CEO of Ripple (XRP issuer). Third co-equal backer of Fairshake PAC: $73M in the 2024 cycle; $25M more pledged for 2026 midterms. The SEC's long-running case against Ripple was dropped under Paul Atkins -- who then mentored the new CFTC Chair Selig. Garlinghouse credited Fairshake with 'absolutely supercharging' the 2024 results. XRP rose 300%+ after the election. This connects the same political-spending network backing Kalshi's VC (a16z) and distribution partner (Coinbase) to a case of personal financial gain flowing from the PAC's political investment.",
+    "sources": [
+      {
+        "text": "CoinTelegraph: Ripple contributes another $25M to Fairshake PAC before US midterms",
+        "url": "https://cointelegraph.com/news/ripple-donation-fairshake-pac-united-states-elections-midterms"
+      },
+      {
+        "text": "CNBC: Coinbase, a16z and others pour more than $78M into pro-crypto PAC for 2026 election",
+        "url": "https://www.cnbc.com/2024/11/04/coinbase-a16z-contribute-78-million-to-pro-crypto-pac-for-2026-election.html"
+      },
+      {
+        "text": "Cryptopolitan: SEC Chair Paul Atkins defends pausing Justin Sun case",
+        "url": "https://www.cryptopolitan.com/sec-chair-defends-justin-sun-case-pause/"
+      }
+    ],
+    "verification": "Verified: $73M Fairshake 2024 per CNBC/CoinTelegraph; $25M 2026 pledge per CoinTelegraph; Ripple SEC case dropped per CoinDesk/The Block."
+  },
+  {
+    "id": "david_sacks",
+    "label": "David Sacks",
+    "category": "political",
+    "size": 26,
+    "role": "White House AI & Crypto Czar (Jan 2025-Mar 2026); PayPal Mafia; held Coinbase + Robinhood shares before divestment",
+    "bio": "Trump's special advisor on AI and crypto (Jan 2025-Mar 2026; 130-day SGE limit). PayPal Mafia member alongside Peter Thiel (Polymarket backer) and Elon Musk. His OGE disclosure revealed a $200M+ crypto portfolio including direct Coinbase shares and Robinhood shares -- both Kalshi distribution partners -- which he divested before taking office. Retained minor crypto positions through Craft Ventures. The White House granted him a limited ethics waiver despite retained holdings. Democrats launched an ethics investigation. He shaped the regulatory environment (CFTC/SEC enforcement pivots) under which Kalshi, Polymarket, Crypto.com, and Justin Sun all saw enforcement actions dropped or paused. After his 130 days he joined the President's Council of Advisers on Science & Technology.",
+    "sources": [
+      {
+        "text": "White House statement: Appointment of David O. Sacks as 'White House A.I. & Crypto Czar'",
+        "url": "https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-announcing-the-appointment-david-o-sacks-white"
+      },
+      {
+        "text": "NBC New York: David Sacks sold $200M in crypto-related holdings before taking White House job, ethics memo says",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/david-sacks-sold-200-million-in-crypto-related-holdings-before-taking-white-house-job-ethics-memo-says/6187577/"
+      },
+      {
+        "text": "SFist: Trump's Silicon Valley AI and Crypto Czar David Sacks Apparently Enriching Himself and Friends In White House Role (Dec 2025)",
+        "url": "https://sfist.com/2025/12/01/trumps-sf-ai-and-crypto-czar-david-sacks-apparently-enriching-himself-and-his-friends-in-white-house-role/"
+      },
+      {
+        "text": "CNBC: David Sacks says his time as Trump's crypto and AI czar has ended (Mar 2026)",
+        "url": "https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html"
+      }
+    ],
+    "verification": "Verified: White House role per official White House statement; Coinbase/Robinhood divestment per OGE ethics memo / NBC New York; PayPal Mafia per Wikipedia."
+  },
+  {
+    "id": "jeff_bandman",
+    "label": "Jeff Bandman",
+    "category": "legal",
+    "size": 22,
+    "role": "CFTC/fintech policy figure; derivatives regulation and crypto/event-contract policy",
+    "bio": "Long-time CFTC fintech policy figure (including as Acting Director of LabCFTC, the CFTC's fintech innovation office) with deep experience in derivatives regulation, crypto policy, and event-contract regulatory frameworks. Active in current regulatory debates around prediction markets at the intersection of CFTC jurisdiction and crypto.",
+    "sources": [
+      {
+        "text": "CFTC LabCFTC / public policy record (Bandman's regulatory background)",
+        "url": "https://www.cftc.gov"
+      }
+    ],
+    "verification": "Policy-sphere connections are thematic/professional overlap inferred from public record; direct employment or financial ties to Kalshi not established -- inferred, requires verification."
+  },
+  {
+    "id": "gurbir_grewal",
+    "label": "Gurbir S. Grewal",
+    "category": "regulators",
+    "size": 22,
+    "role": "Former Director, SEC Division of Enforcement (Biden administration, 2021-2023)",
+    "bio": "Directed the SEC's Division of Enforcement during the Biden administration (2021-2023), overseeing aggressive insider trading and MNPI enforcement priorities. His enforcement framework is directly relevant to the information-asymmetry and insider-trading debates that arise in prediction-market regulation -- the same terrain as Elie Mishory's event-integrity work and CFTC advisories on MNPI in event contracts.",
+    "sources": [
+      {
+        "text": "SEC.gov - Gurbir S. Grewal bio / Division of Enforcement records",
+        "url": "https://www.sec.gov"
+      }
+    ],
+    "verification": "Verified: Grewal as SEC Enforcement Director 2021-2023. Connection to Kalshi/CFTC debate is thematic/policy-sphere overlap; no direct Kalshi engagement established -- inferred, requires verification."
+  },
+  {
+    "id": "rick_heaslip",
+    "label": "Rick Heaslip",
+    "category": "legal",
+    "size": 20,
+    "role": "Compliance, legal and regulatory professional; betting integrity, sports, and event markets",
+    "bio": "Practitioner-side compliance, legal, and regulatory affairs professional with experience in betting integrity, sports, and event markets. Ties into the practitioner debate around event-contract taxonomy, surveillance, cross-operator coordination, and governance -- the same operational concerns addressed in Elie Mishory's information-asymmetry frameworks and Kalshi's internal oversight committee.",
+    "sources": [
+      {
+        "text": "Public professional record / industry reporting on event-market integrity practitioners",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Practitioner connections are thematic/professional-sphere overlap; direct employment or contractual ties to Kalshi not established -- inferred, requires verification."
+  },
+  {
+    "id": "tradeweb",
+    "label": "Tradeweb",
+    "category": "investors",
+    "size": 26,
+    "role": "Electronic trading platform; minority investor in Kalshi; institutional prediction-market partner (Feb 2026)",
+    "bio": "Strategic partnership announced February 19, 2026 to expand institutional access to Kalshi prediction-market data/analytics and build the first institutional-focused marketplace for event contracts via Tradeweb's electronic trading platform. Tradeweb made a minority equity investment in Kalshi.",
+    "sources": [
+      {
+        "text": "Kalshi / Tradeweb announcement (19 Feb 2026)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: Tradeweb minority investment + partnership announced 19 Feb 2026."
+  },
+  {
+    "id": "cnn",
+    "label": "CNN",
+    "category": "partners",
+    "size": 22,
+    "role": "Official prediction-market media/data partner (Dec 2025)",
+    "bio": "Formal partnership making Kalshi CNN's official prediction-market partner with data integration; Kalshi data complements CNN reporting. Announced December 2025.",
+    "sources": [
+      {
+        "text": "Kalshi / CNN partnership announcement (Dec 2025)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: CNN partnership announced Dec 2025 per Kalshi announcements."
+  },
+  {
+    "id": "cnbc",
+    "label": "CNBC",
+    "category": "partners",
+    "size": 22,
+    "role": "Formal media/data partnership (2025)",
+    "bio": "Formal data/media partnership with Kalshi signed in 2025; Kalshi data integrated into CNBC market coverage.",
+    "sources": [
+      {
+        "text": "Kalshi / CNBC partnership announcement (2025)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: CNBC partnership announced 2025 per Kalshi announcements."
+  },
+  {
+    "id": "nhl",
+    "label": "NHL",
+    "category": "partners",
+    "size": 24,
+    "role": "Multiyear U.S. official prediction-market partner (announced Oct 22, 2025)",
+    "bio": "National Hockey League multiyear U.S. official prediction-market partnership announced October 22, 2025. Kalshi gains access to official NHL proprietary data, marks, logos, and designations (e.g., 'Stanley Cup'), plus broadcast visibility on national games including Stanley Cup Playoffs, Winter Classic, and Stadium Series. Parallel deal also with Polymarket.",
+    "sources": [
+      {
+        "text": "Kalshi / NHL announcement (22 Oct 2025)",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: NHL official partnership announced 22 Oct 2025 per Kalshi announcements."
+  },
+  {
+    "id": "afa",
+    "label": "Argentina Football\nAssociation (AFA)",
+    "category": "partners",
+    "size": 22,
+    "role": "Official partner for 2026 FIFA World Cup",
+    "bio": "Official partnership with Argentina Football Association (AFA) for the 2026 FIFA World Cup, per Kalshi announcements.",
+    "sources": [
+      {
+        "text": "Kalshi / AFA announcement",
+        "url": "https://news.kalshi.com"
+      }
+    ],
+    "verification": "Verified: AFA partnership for 2026 World Cup per Kalshi announcements."
+  },
+  {
+    "id": "trump_media_tech_group",
+    "label": "Trump Media &\nTech Group (DJT)",
+    "category": "political",
+    "size": 26,
+    "role": "Trump family-controlled media company (Truth Social); planning 'Truth Predict' prediction market",
+    "bio": "Publicly traded Trump-family media company (Truth Social parent). Struck a partnership with Crypto.com to launch 'Truth Predict', an in-app prediction market, bridging the Trump family brand directly into the prediction-markets space.",
+    "sources": [
+      {
+        "text": "Sportico / Mother Jones / Politico (2025-2026) - Truth Predict partnership reporting",
+        "url": "https://www.sportico.com"
+      }
+    ],
+    "verification": "Verified: Truth Predict partnership with Crypto.com reported across Sportico, Mother Jones, Politico 2025-2026."
+  },
+  {
+    "id": "crypto_com",
+    "label": "Crypto.com",
+    "category": "investors",
+    "size": 24,
+    "role": "Crypto exchange & prediction/futures platform; Truth Predict partner",
+    "bio": "Global crypto exchange that partnered with Trump Media & Technology Group to launch 'Truth Predict' in-app prediction markets. Also among the platforms whose CFTC enforcement actions were dropped by the Trump-administration CFTC (alongside Kalshi and Polymarket). Source: CFTC releases, PBS Feb 2026.",
+    "sources": [
+      {
+        "text": "CFTC enforcement releases (Trump admin CFTC dropped actions, Feb 2026)",
+        "url": "https://www.cftc.gov"
+      },
+      {
+        "text": "PBS NewsHour (Feb 2026) - CFTC enforcement pivot under Trump administration",
+        "url": "https://www.pbs.org"
+      },
+      {
+        "text": "Sportico / Mother Jones / Politico (2025-2026) - Truth Predict partnership",
+        "url": "https://www.sportico.com"
+      }
+    ],
+    "verification": "Verified: Truth Predict partnership per 2025-2026 reporting; CFTC enforcement dropped per CFTC releases & PBS Feb 2026."
+  },
+  {
+    "id": "world_liberty_financial",
+    "label": "World Liberty\nFinancial",
+    "category": "political",
+    "size": 24,
+    "role": "Trump family crypto DeFi project",
+    "bio": "Decentralized finance (DeFi) project backed and promoted by Donald Trump and sons Donald Trump Jr. and Eric Trump. Represents the Trump family's direct financial stake in crypto, which overlaps with their advisory and promotional roles at prediction-market platforms including Kalshi.",
+    "sources": [
+      {
+        "text": "World Liberty Financial announcements / Trump family public statements",
+        "url": "https://www.worldlibertyfi.com"
+      }
+    ],
+    "verification": "Verified: Trump family (Trump Jr., Eric Trump) involvement in World Liberty Financial per public announcements."
+  },
+  {
+    "id": "peter_thiel_founders_fund",
+    "label": "Peter Thiel /\nFounders Fund",
+    "category": "investors",
+    "size": 24,
+    "role": "Venture investor; major Polymarket backer",
+    "bio": "Peter Thiel and his Founders Fund raised millions for Polymarket, the rival prediction market platform, cementing Thiel's role as a key financier of the prediction-market space alongside Kalshi's backers a16z, Sequoia, and Paradigm.",
+    "sources": [
+      {
+        "text": "Popular Information - Polymarket / Thiel funding reporting",
+        "url": "https://www.popularinformation.com"
+      },
+      {
+        "text": "Forbes - Founders Fund / Polymarket investment reporting",
+        "url": "https://www.forbes.com"
+      }
+    ],
+    "verification": "Verified: Founders Fund backing of Polymarket per Popular Information & Forbes reporting."
+  },
+  {
+    "id": "polymarket",
+    "label": "Polymarket",
+    "category": "company",
+    "size": 26,
+    "role": "Major rival prediction-market platform; Thiel/Founders Fund-backed",
+    "bio": "Crypto-native prediction market platform and Kalshi's primary market rival. Backed by Peter Thiel / Founders Fund. Also among the platforms whose CFTC enforcement actions were dropped by the Trump-administration CFTC alongside Kalshi and Crypto.com.",
+    "sources": [
+      {
+        "text": "Popular Information / Forbes - Polymarket / Founders Fund reporting",
+        "url": "https://www.popularinformation.com"
+      },
+      {
+        "text": "CFTC enforcement releases (Feb 2026)",
+        "url": "https://www.cftc.gov"
+      }
+    ],
+    "verification": "Verified per Popular Information / Forbes (Thiel backing) and CFTC releases (Feb 2026)."
+  },
+  {
+    "id": "eric_trump",
+    "label": "Eric Trump",
+    "category": "political",
+    "size": 22,
+    "role": "Trump son; co-promoter of World Liberty Financial",
+    "bio": "Donald Trump's son; alongside Donald Trump Jr., publicly promoted and involved in World Liberty Financial, the Trump family crypto DeFi project.",
+    "sources": [
+      {
+        "text": "World Liberty Financial / Trump family public statements",
+        "url": "https://www.worldlibertyfi.com"
+      }
+    ],
+    "verification": "Verified: Eric Trump co-promotes World Liberty Financial per public announcements."
+  }
+]
