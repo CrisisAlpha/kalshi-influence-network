@@ -234,23 +234,172 @@
     "verification": "Verified as a key firm per seed data; per-firm dollar split not broken out - inferred, requires verification."
   },
   {
-    "id": "kalshi_v_cftc",
-    "label": "KalshiEX LLC\nv. CFTC (2024)",
+    "id": "judge_jia_cobb",
+    "label": "Judge Jia Cobb\n(D.D.C.)",
     "category": "legal",
-    "size": 26,
-    "role": "Federal court case - major Kalshi win on election contracts",
-    "bio": "The court narrowed the scope of 'gaming' and 'involve' under CEA section 5c(c)(5)(C), clearing the way for Kalshi's election contracts. A pivotal legal victory over its own regulator.",
+    "size": 24,
+    "role": "U.S. District Judge (D.D.C.); granted summary judgment for Kalshi, vacating the CFTC's election-contract ban (Sept 2024)",
+    "bio": "U.S. District Judge for the District of Columbia (confirmed 2021). In KalshiEX LLC v. CFTC she granted summary judgment for Kalshi in September 2024, vacating the CFTC order that had blocked Kalshi's congressional-control (election) contracts. Rejecting the agency's theory that the contracts were 'gaming' or unlawful activity, she wrote: 'Kalshi's contracts do not involve unlawful activity or gaming. They involve elections, which are neither.' She held the CFTC lacked the broad authority it claimed, reasoning its logic would let it prohibit virtually any event contract.",
     "sources": [
       {
-        "text": "Court docket search: KalshiEX LLC v. CFTC (CourtListener)",
-        "url": "https://www.courtlistener.com/?q=KalshiEX+LLC+v.+CFTC"
+        "text": "Davis Wright Tremaine - District Court Vacates CFTC Prohibition on 'Congressional Control Contracts' (Oct 2024), quoting Judge Cobb",
+        "url": "https://www.dwt.com/blogs/financial-services-law-advisor/2024/10/cftc-election-trading-event-contracts-ban-in-court"
       },
       {
-        "text": "CFTC dockets",
-        "url": "https://www.cftc.gov"
+        "text": "KalshiEX LLC v. CFTC docket (CourtListener)",
+        "url": "https://www.courtlistener.com/docket/69156289/kalshiex-llc-v-cftc/"
       }
     ],
-    "verification": "Verified per seed data: 2024 ruling narrowing CEA §5c(c)(5)(C) terms."
+    "verification": "Verified: ruling and quoted language per Davis Wright Tremaine analysis and the court docket (D.D.C., Sept 2024)."
+  },
+  {
+    "id": "judge_patricia_millett",
+    "label": "Judge Patricia Millett\n(D.C. Circuit)",
+    "category": "legal",
+    "size": 24,
+    "role": "U.S. Circuit Judge (D.C. Circuit); authored the per curiam order denying the CFTC's emergency stay (Oct 2, 2024)",
+    "bio": "U.S. Court of Appeals judge for the D.C. Circuit. On a per curiam panel with Judges Cornelia Pillard and Florence Pan, she authored the court's October 2, 2024 order denying the CFTC's emergency motion to stay Judge Cobb's ruling pending appeal. The panel held the CFTC had not shown the 'public will suffer irreparable injury absent a stay pending appeal,' dissolving the administrative stay and letting Kalshi's election markets go live before the November 2024 election.",
+    "sources": [
+      {
+        "text": "KalshiEX LLC v. CFTC, No. 24-5205 (D.C. Cir. Oct 2, 2024) - opinion (CourtListener)",
+        "url": "https://www.courtlistener.com/opinion/10128675/an-opinion-was-released-in-case-24-5205-kalshiex-llc-v-cftc/"
+      },
+      {
+        "text": "Lowenstein Sandler - Election Contract Market Goes Live After Court of Appeals Denies CFTC's Motion to Stay (Oct 2024)",
+        "url": "https://www.lowenstein.com/news-insights/publications/client-alerts/place-your-bets-for-now-kalshi-s-election-contract-market-goes-live-after-court-of-appeals-denies-cftc-s-motion-to-stay-im"
+      }
+    ],
+    "verification": "Verified: panel (Millett, Pillard, Pan), per curiam stay denial, and quoted 'irreparable injury' language per the D.C. Circuit order (No. 24-5205) and Lowenstein Sandler client alert (Oct 2024). Exact slip-opinion wording not retrievable via the public CourtListener API (opinion text is token-gated); quote corroborated across multiple law-firm analyses."
+  },
+  {
+    "id": "state_gaming_regulators",
+    "label": "State Gaming\nRegulators (NV/NJ/MD+)",
+    "category": "regulators",
+    "size": 26,
+    "role": "State gaming regulators (Nevada GCB, NJ DGE, Maryland, and others) - issued cease-and-desist orders against Kalshi's sports event contracts (2025-26)",
+    "bio": "A coalition of state gaming regulators that issued cease-and-desist orders against Kalshi after it launched sports event contracts in 2025, arguing the contracts are unlicensed sports betting under state law. Kalshi countered that the Commodity Exchange Act gives the CFTC exclusive jurisdiction over its federally regulated contracts, preempting state gambling law. The dispute split the federal courts: New Jersey and (initially) Nevada enjoined the states for Kalshi, while Maryland sided with the regulators and Nevada later reversed. By 2026 the fight had expanded to the Ninth Circuit and many more states (per CourtListener dockets).",
+    "sources": [
+      {
+        "text": "Holland & Knight - New Jersey Federal Court Sides with Kalshi Over Prediction Market Contracts (May 2025)",
+        "url": "https://www.hklaw.com/en/insights/publications/2025/05/new-jersey-federal-court-sides-with-kalshi-over-prediction-market"
+      },
+      {
+        "text": "Mondaq - Disagreement Deepens Among Federal Courts Over Whether Sports Event Contracts Are Subject to State Regulation",
+        "url": "https://www.mondaq.com/unitedstates/commoditiesderivativesstock-exchanges/1724168/disagreement-deepens-among-federal-courts-over-whether-sports-event-contracts-are-subject-to-state-regulation"
+      },
+      {
+        "text": "CourtListener - Kalshi docket search (multi-state suits, 2025-26)",
+        "url": "https://www.courtlistener.com/?q=Kalshi&type=r"
+      }
+    ],
+    "verification": "Verified: multi-state cease-and-desist wave and federal court split (NJ/NV initially for Kalshi; MD against; NV reversed) per Holland & Knight and Mondaq analyses; 2025-26 docket expansion per CourtListener."
+  },
+  {
+    "id": "judge_edward_kiel",
+    "label": "Judge Edward Kiel\n(D.N.J.)",
+    "category": "legal",
+    "size": 22,
+    "role": "U.S. District Judge (D.N.J.); granted Kalshi a preliminary injunction against New Jersey gaming regulators (April 2025)",
+    "bio": "U.S. District Judge for New Jersey. In April 2025 he granted Kalshi a TRO and preliminary injunction against the New Jersey Division of Gaming Enforcement, which had issued a cease-and-desist over Kalshi's sports event contracts. Crediting Kalshi's federal-preemption theory, he wrote that 'Kalshi's sports-related event contracts evidence - by their very existence - the CFTC's exercise of its discretion and implicit decision to permit them.' A leading pro-Kalshi data point in the state-preemption split.",
+    "sources": [
+      {
+        "text": "Sportico - Kalshi Defeats New Jersey as Federal Law Trumps State Law (2025)",
+        "url": "https://www.sportico.com/law/analysis/2025/kalshi-new-jersey-court-ruling-1234850473/"
+      },
+      {
+        "text": "Holland & Knight - New Jersey Federal Court Sides with Kalshi (May 2025)",
+        "url": "https://www.hklaw.com/en/insights/publications/2025/05/new-jersey-federal-court-sides-with-kalshi-over-prediction-market"
+      }
+    ],
+    "verification": "Verified: D.N.J. preliminary injunction for Kalshi (April 2025) and quoted language per Sportico and Holland & Knight."
+  },
+  {
+    "id": "judge_andrew_gordon",
+    "label": "Judge Andrew Gordon\n(D. Nev.)",
+    "category": "legal",
+    "size": 22,
+    "role": "U.S. District Judge (D. Nev.); granted then DISSOLVED Kalshi's preliminary injunction, ruling sports contracts fall under state gaming law (Nov 2025)",
+    "bio": "U.S. District Judge for Nevada. He first granted Kalshi a preliminary injunction in April 2025, but reversed course on November 24, 2025, dissolving it and holding that Kalshi's sports-related contracts 'closely resemble' traditional sportsbook bets and fall within Nevada's gaming laws. He wrote that Kalshi 'relies on a strained reading of the already convoluted CEA in an attempt to evade state regulation,' an interpretation that would 'upset decades of federalism regarding gaming regulation' and is 'contrary to Congress' intent.' A leading anti-Kalshi data point that deepened the federal court split.",
+    "sources": [
+      {
+        "text": "iGaming Business - Federal judge in Nevada reverses a key court win for Kalshi (Nov 2025)",
+        "url": "https://igamingbusiness.com/gaming/gordon-prediction-markets-kalshi-nevada-decision-overturned/"
+      },
+      {
+        "text": "National Law Review - Nevada Court Rules Kalshi Platform Subject to State Gaming Laws",
+        "url": "https://natlawreview.com/article/prediction-market-leader-kalshi-suffers-legal-blow-nevada-court-rules-platform"
+      },
+      {
+        "text": "The Nevada Independent - Federal judge rules Kalshi must stop offering prediction contracts in Nevada",
+        "url": "https://thenevadaindependent.com/article/federal-judge-rules-that-kalshi-must-stop-offering-prediction-contracts-in-nevada"
+      }
+    ],
+    "verification": "Verified: April 2025 PI grant then Nov 24, 2025 dissolution, with quoted language, per iGaming Business, National Law Review, and The Nevada Independent."
+  },
+  {
+    "id": "keith_ellison",
+    "label": "Keith Ellison\n(MN Attorney General)",
+    "category": "regulators",
+    "size": 24,
+    "role": "Minnesota AG; defends the first U.S. felony ban on prediction markets - sued by both Kalshi and the CFTC (2026)",
+    "bio": "Minnesota Attorney General. In May 2026 Minnesota became the first state to criminalize prediction markets outright (a felony ban effective Aug 1, 2026). Kalshi sued Ellison and Governor Tim Walz on May 28, 2026, arguing the ban violates the Supremacy Clause and the CFTC's exclusive jurisdiction under the Commodity Exchange Act; the CFTC separately sued Minnesota on May 19, 2026 (as it also did Illinois, New York, Connecticut and Arizona). Polymarket filed its own suit. Ellison defends the ban, saying prediction markets are 'designed to be addictive and prey especially on young people and low-income folks.'",
+    "sources": [
+      {
+        "text": "The Block - Kalshi sues Minnesota over law going into effect in August (2026)",
+        "url": "https://www.theblock.co/post/402937/kalshis-prediction-markets-sues-minnesota-law-ban"
+      },
+      {
+        "text": "Gambling Insider - Kalshi Sues Minnesota After State Enacts New Prediction Market Ban (2026)",
+        "url": "https://www.gamblinginsider.com/news/163520/kalshi-sues-minnesota-prediction-market-ban"
+      },
+      {
+        "text": "PYMNTS - Kalshi Sues Minnesota to Block State Prediction Market Ban (2026)",
+        "url": "https://www.pymnts.com/legal/2026/kalshi-sues-minnesota-to-block-state-prediction-market-ban/"
+      }
+    ],
+    "verification": "Verified: Minnesota felony ban, Kalshi suit naming Ellison/Walz (May 28, 2026), CFTC suit (May 19, 2026), and Ellison's quoted statement per The Block, Gambling Insider, and PYMNTS."
+  },
+  {
+    "id": "ninth_circuit",
+    "label": "Ninth Circuit\nCourt of Appeals",
+    "category": "legal",
+    "size": 24,
+    "role": "U.S. Court of Appeals (9th Cir.); denied Kalshi & Polymarket stays (May 2026), letting Nevada & Washington enforcement proceed",
+    "bio": "On May 22, 2026, the Ninth Circuit denied Kalshi's and Polymarket's bids to stay state gambling enforcement in Nevada and Washington, finding neither had shown irreparable harm or a strong likelihood of success on its federal-preemption argument. The ruling let the state cases proceed and stands as a key appellate counterweight to the 2024 D.C. Circuit decision, deepening the split among federal courts over whether the CEA preempts state gaming law for sports event contracts.",
+    "sources": [
+      {
+        "text": "The Block - Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases (May 2026)",
+        "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases"
+      },
+      {
+        "text": "Bloomberg Government - Kalshi, Polymarket Fail to Pause Nevada and Washington Suits (May 2026)",
+        "url": "https://news.bgov.com/litigation/kalshi-polymarket-lose-bid-to-pause-nevada-washington-suits"
+      }
+    ],
+    "verification": "Verified: Ninth Circuit denied Kalshi and Polymarket stays on May 22, 2026 per The Block and Bloomberg Government."
+  },
+  {
+    "id": "tribal_gaming",
+    "label": "Tribal Gaming\n(NM Pueblos & Apache)",
+    "category": "regulators",
+    "size": 22,
+    "role": "New Mexico tribes (Mescalero Apache + Pojoaque, Sandia, Isleta Pueblos) - sued Kalshi alleging IGRA / tribal-sovereignty violations (May 2026)",
+    "bio": "On May 12, 2026, four New Mexico tribes and pueblos (the Mescalero Apache Tribe with the Pojoaque, Sandia and Isleta Pueblos) sued Kalshi, alleging its sports event contracts are illegal sports betting on tribal lands that violate the Indian Gaming Regulatory Act (IGRA), tribal-state compacts, and age rules (18 vs 21), depriving tribes of compact revenue that funds schools and services. They argue the Commodity Exchange Act does not override IGRA, which makes no reference to tribal authority. It was the third tribal suit against Kalshi (after California and Wisconsin); New Mexico AG Raul Torrez separately sued Kalshi on June 4, 2026.",
+    "sources": [
+      {
+        "text": "Source New Mexico - New Mexico pueblos sue Kalshi, alleging prediction market violates tribal gaming sovereignty (May 2026)",
+        "url": "https://sourcenm.com/2026/05/13/new-mexico-pueblos-sue-kalshi-alleging-prediction-market-violates-tribal-gaming-sovereignty/"
+      },
+      {
+        "text": "Albuquerque Journal - New Mexico tribes sue Kalshi, alleging illegal sports betting on tribal lands (May 2026)",
+        "url": "https://www.abqjournal.com/business/new-mexico-tribes-sue-kalshi-alleging-illegal-sports-betting-on-tribal-lands/3041695"
+      },
+      {
+        "text": "Casino.org - New Mexico Tribes Sue Kalshi Over 'Sports Betting' on Tribal Lands (2026)",
+        "url": "https://www.casino.org/news/new-mexico-tribes-sue-kalshi-over-sports-betting-on-tribal-lands/"
+      }
+    ],
+    "verification": "Verified: four NM tribes/pueblos sued Kalshi May 12, 2026 on IGRA/sovereignty grounds, and NM AG Torrez sued June 4, 2026, per Source New Mexico, Albuquerque Journal, and Casino.org."
   },
   {
     "id": "alfred_lin",

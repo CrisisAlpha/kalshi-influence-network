@@ -86,18 +86,118 @@
     "title": "Kalshi operates as a CFTC-registered designated contract market. Source: CFTC registration records."
   },
   {
-    "src": "kalshi_v_cftc",
+    "src": "judge_jia_cobb",
     "dst": "kalshi",
     "width": 3,
-    "label": "Plaintiff win (2024): court narrowed 'gaming'/'involve', CEA s.5c(c)(5)(C)",
-    "title": "KalshiEX LLC v. CFTC (2024): the court narrowed the scope of 'gaming' and 'involve' under CEA s.5c(c)(5)(C) - a major win enabling Kalshi's election contracts."
+    "label": "Ruled for Kalshi (Sept 2024):\nvacated CFTC election-contract ban",
+    "title": "KalshiEX LLC v. CFTC: Judge Jia Cobb (D.D.C.) granted summary judgment for Kalshi in Sept 2024, holding its contracts 'involve elections, which are neither' unlawful activity nor gaming - enabling Kalshi's election contracts."
   },
   {
-    "src": "kalshi_v_cftc",
+    "src": "judge_jia_cobb",
     "dst": "cftc",
     "width": 2,
-    "label": "Defendant * 2024",
-    "title": "The CFTC was the defendant in KalshiEX LLC v. CFTC (2024)."
+    "label": "Vacated CFTC order (2024):\nagency exceeded its authority",
+    "title": "Judge Cobb vacated the CFTC's order blocking Kalshi's congressional-control contracts, holding the agency lacked the broad authority it claimed under the Commodity Exchange Act."
+  },
+  {
+    "src": "judge_patricia_millett",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "D.C. Circuit (Oct 2024):\ndenied CFTC stay; markets went live",
+    "title": "On a per curiam D.C. Circuit panel (with Pillard and Pan), Judge Millett authored the Oct 2, 2024 order denying the CFTC's emergency stay - letting Kalshi's election markets go live before the Nov 2024 election."
+  },
+  {
+    "src": "judge_patricia_millett",
+    "dst": "cftc",
+    "width": 2,
+    "label": "Denied CFTC emergency stay (2024):\nno irreparable harm shown",
+    "title": "The D.C. Circuit panel held the CFTC had not shown the 'public will suffer irreparable injury absent a stay pending appeal,' dissolving the administrative stay. Source: KalshiEX LLC v. CFTC, No. 24-5205 (D.C. Cir. Oct 2, 2024)."
+  },
+  {
+    "src": "judge_edward_kiel",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "PI for Kalshi (Apr 2025):\nCFTC existence implies permission",
+    "title": "Judge Edward Kiel (D.N.J.) granted Kalshi a preliminary injunction in April 2025, finding its sports event contracts 'evidence - by their very existence - the CFTC's exercise of its discretion and implicit decision to permit them.' Source: Sportico; Holland & Knight (2025)."
+  },
+  {
+    "src": "judge_edward_kiel",
+    "dst": "state_gaming_regulators",
+    "width": 2,
+    "label": "Enjoined NJ gaming\nregulators (2025)",
+    "title": "Kiel's injunction barred the New Jersey Division of Gaming Enforcement from enforcing its cease-and-desist against Kalshi, on CEA federal-preemption grounds."
+  },
+  {
+    "src": "judge_andrew_gordon",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Dissolved PI (Nov 2025):\n'strained reading' of the CEA",
+    "title": "Judge Andrew Gordon (D. Nev.) first enjoined Nevada (Apr 2025) but dissolved the injunction Nov 24, 2025, ruling Kalshi's sports contracts fall under state gaming law and 'rel[y] on a strained reading of the already convoluted CEA.' Source: iGaming Business; National Law Review (2025)."
+  },
+  {
+    "src": "judge_andrew_gordon",
+    "dst": "state_gaming_regulators",
+    "width": 2,
+    "label": "Sided with Nevada (2025):\ncontracts = state-regulated gaming",
+    "title": "On dissolving the injunction, Gordon held Nevada may regulate Kalshi's sports contracts as gaming - a win for state regulators that deepened the federal court split."
+  },
+  {
+    "src": "state_gaming_regulators",
+    "dst": "kalshi",
+    "width": 2,
+    "label": "Cease-and-desist wave (2025-26):\nsports contracts = unlicensed betting",
+    "title": "Nevada, New Jersey, Maryland and other state gaming regulators issued cease-and-desist orders against Kalshi's sports event contracts, calling them unlicensed sports betting under state law. Source: Holland & Knight; Mondaq; CourtListener dockets."
+  },
+  {
+    "src": "state_gaming_regulators",
+    "dst": "cftc",
+    "dashes": true,
+    "width": 2,
+    "label": "Preemption clash:\nstate gaming law vs CFTC jurisdiction",
+    "title": "The core legal question across these suits: whether the Commodity Exchange Act's grant of exclusive CFTC jurisdiction preempts state gaming law for sports event contracts. Federal courts split (NJ/NV initially for Kalshi; MD and later NV for the states). Thematic/jurisdictional link."
+  },
+  {
+    "src": "cftc",
+    "dst": "keith_ellison",
+    "width": 3,
+    "label": "CFTC sued Minnesota (May 2026):\nstate ban usurps federal jurisdiction",
+    "title": "The CFTC sued Minnesota on May 19, 2026 (and also Illinois, New York, Connecticut and Arizona), arguing state prediction-market bans are preempted by the CEA's grant of exclusive CFTC jurisdiction - the federal regulator litigating to protect Kalshi's market against the states. Source: The Block; PYMNTS (2026)."
+  },
+  {
+    "src": "kalshi",
+    "dst": "keith_ellison",
+    "width": 2,
+    "label": "Sued MN AG Ellison & Gov. Walz\n(May 28, 2026): Supremacy Clause",
+    "title": "Kalshi sued Minnesota AG Keith Ellison and Governor Tim Walz on May 28, 2026, claiming the state's first-in-nation felony ban on prediction markets violates the Supremacy Clause and the CFTC's exclusive jurisdiction. Source: The Block; Gambling Insider (2026)."
+  },
+  {
+    "src": "ninth_circuit",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Denied stay (May 2026):\nno irreparable harm; state suits proceed",
+    "title": "On May 22, 2026 the Ninth Circuit denied Kalshi's (and Polymarket's) bids to stay state gambling enforcement in Nevada and Washington, finding no irreparable harm or strong likelihood of success on preemption - an appellate setback opposite the 2024 D.C. Circuit win. Source: The Block; Bloomberg Government (2026)."
+  },
+  {
+    "src": "ninth_circuit",
+    "dst": "state_gaming_regulators",
+    "width": 2,
+    "label": "Let NV & WA suits proceed (2026)",
+    "title": "The Ninth Circuit's May 2026 stay denials allowed Nevada's and Washington's enforcement actions against Kalshi to continue, deepening the federal circuit split on CEA preemption."
+  },
+  {
+    "src": "tribal_gaming",
+    "dst": "kalshi",
+    "width": 2,
+    "label": "IGRA / sovereignty suit (May 2026):\nillegal betting on tribal lands",
+    "title": "Four New Mexico tribes/pueblos (incl. the Mescalero Apache Tribe) sued Kalshi on May 12, 2026, alleging its sports contracts are illegal sports betting on tribal lands that violate IGRA and tribal compacts, and that the CEA does not override IGRA. Source: Source New Mexico; Albuquerque Journal (2026)."
+  },
+  {
+    "src": "keith_ellison",
+    "dst": "cftc",
+    "dashes": true,
+    "width": 2,
+    "label": "State-vs-federal preemption fight\n(Supremacy Clause)",
+    "title": "Minnesota's prediction-market ban squarely tests CEA preemption: the CFTC and Kalshi say federal jurisdiction is exclusive, while the state asserts its police power over gambling. Thematic/jurisdictional link between the state resistance and the federal regulator."
   },
   {
     "src": "a16z",
@@ -193,14 +293,6 @@
     "width": 2,
     "label": "CFTC fintech/derivatives policy\nbackground (LabCFTC acting director)",
     "title": "Jeff Bandman served at the CFTC including as Acting Director of LabCFTC (the CFTC's fintech innovation office), building deep expertise in derivatives and crypto/event-contract regulatory frameworks. Source: CFTC public record."
-  },
-  {
-    "src": "jeff_bandman",
-    "dst": "kalshi_v_cftc",
-    "dashes": true,
-    "width": 2,
-    "label": "Policy-sphere: event-contract\nregulatory analysis & debate",
-    "title": "Bandman's CFTC fintech policy work directly informs the regulatory debates around event contracts that culminated in KalshiEX LLC v. CFTC (2024) -- including the 2021 CFTC event-contract analysis framework. Connection is thematic/policy-sphere overlap; inferred, requires verification of direct involvement."
   },
   {
     "src": "jeff_bandman",
