@@ -1236,5 +1236,161 @@
       }
     ],
     "verification": "Verified: Coatue led Kalshi's $1B round at $22B valuation (7 May 2026) with the named co-investors, and Laffont's quote, per Business Wire and Yahoo Finance. No prominent political donations established for Laffont - financial tie only."
+  },
+  {
+    "id": "justin_mateen",
+    "label": "Justin Mateen\n(Tinder / JAM Fund)",
+    "category": "investors",
+    "size": 20,
+    "role": "Tinder co-founder; founder of JAM Fund; early/seed investor in Kalshi",
+    "bio": "Co-founder of Tinder and founder of JAM Fund, a prominent seed-stage venture fund (Mateen was ranked the #1 U.S. seed investor by Business Insider in 2021). He was an early/seed investor in Kalshi -- which went through Y Combinator's W19 batch -- well before its valuation climbed into the billions, one of the founder-operator angels on the cap table beneath the later institutional rounds.",
+    "sources": [
+      {
+        "text": "dot.LA - Tinder Co-Founder Justin Mateen Raises $247M for JAM Fund",
+        "url": "https://dot.la/tinder-justin-mateen-jam-fund-2655084280.html"
+      },
+      {
+        "text": "Wellfound - Kalshi Funding Rounds, Valuation & Investors",
+        "url": "https://wellfound.com/company/kalshi/funding"
+      }
+    ],
+    "verification": "Verified: Tinder co-founder and JAM Fund founder per dot.LA; early/seed investor in Kalshi (YC W19) per reporting / Kalshi investor records - exact entry round and valuation approximate, requires verification."
+  },
+  {
+    "id": "factory_holdings",
+    "label": "Factory Holdings",
+    "category": "investors",
+    "size": 22,
+    "role": "Family-office / cultural-capital platform; led a $4.7M 'cultural capital' investment in Kalshi alongside athletes, entertainers and family offices",
+    "bio": "Factory (Factory Holdings) is a 'next-generation family office' platform that converts athlete and entertainer influence into equity ownership. It led a $4.7M 'cultural capital' investment in Kalshi -- reported as a slice of Kalshi's 2026 institutional fundraising -- bringing a cohort of pro athletes (Marshawn Lynch, Richard Sherman, Diana Taurasi, Nneka Ogwumike, Breanna Stewart, plus Connor McDavid, Ajay Mitchell and the Jaquez siblings) onto Kalshi's cap table. The structure puts active and former athletes inside an exchange that runs markets on their own sports -- precisely the conflict that ex-Kalshi CRO Elie Mishory's 'causal-power test' was written to police.",
+    "sources": [
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi Alongside Athletes, Entertainers, Executives, and Family Offices",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      },
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "FinSMEs - Kalshi Raised Additional $4.7M in Series E Funding",
+        "url": "https://www.finsmes.com/2026/04/kalshi-raised-additional-4-7m-in-series-e-funding.html"
+      }
+    ],
+    "verification": "Verified: Factory led a $4.7M cultural-capital investment in Kalshi with the named athlete cohort per PR Newswire and Front Office Sports; framed as additional Series E (~$11B valuation) per FinSMEs - exact round/valuation labelling varies across sources, requires verification."
+  },
+  {
+    "id": "giannis_antetokounmpo",
+    "label": "Giannis\nAntetokounmpo",
+    "category": "investors",
+    "size": 22,
+    "role": "Milwaukee Bucks superstar; first active NBA player to take a direct equity stake in Kalshi (2026)",
+    "bio": "Two-time NBA MVP who in 2026 became the first active NBA player to take a direct equity stake in Kalshi (a reported sub-1% stake) and starred in a Kalshi NBA Finals ad. Because Kalshi lists markets on NBA games and player props, an active superstar owning part of the exchange is the textbook 'causal-power' conflict that prediction-market integrity rules are meant to address -- and reporting openly debated whether his deal would be 'a first or a last.'",
+    "sources": [
+      {
+        "text": "Prediction News - Giannis Antetokounmpo becomes first active NBA player to take equity stake in Kalshi",
+        "url": "https://predictionnews.com/story/giannis-antetokounmpo-becomes-first-active-nba-player-to-take-equity-stake-in-ka-cfac5717"
+      },
+      {
+        "text": "iGaming Business - Will Giannis equity stake in prediction market Kalshi be a first or a last?",
+        "url": "https://igamingbusiness.com/sports-betting/kalshi-giannis-antetokounmpo-equity-deal-analysis/"
+      }
+    ],
+    "verification": "Verified: first active NBA player with a direct (sub-1%) Kalshi equity stake and NBA Finals ad (2026) per Prediction News and iGaming Business; integrity/causal-power concern per iGaming Business analysis."
+  },
+  {
+    "id": "breanna_stewart",
+    "label": "Breanna Stewart",
+    "category": "investors",
+    "size": 18,
+    "role": "WNBA champion & MVP; Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "WNBA champion and MVP who took an equity stake in Kalshi as part of Factory's $4.7M cultural-capital investment -- an active player holding equity in an exchange that runs markets on her league.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Breanna Stewart among the athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "nneka_ogwumike",
+    "label": "Nneka Ogwumike",
+    "category": "investors",
+    "size": 20,
+    "role": "WNBA star and WNBPA President; Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "WNBA All-Star and President of the Women's National Basketball Players Association (WNBPA), the players' union. She took a Kalshi equity stake through Factory's cultural-capital investment -- notable because the head of a players' union, charged with protecting athlete and game integrity, is now part-owner of an exchange that prices her sport.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago (lists Nneka Ogwumike)",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Nneka Ogwumike (WNBPA President) among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "diana_taurasi",
+    "label": "Diana Taurasi",
+    "category": "investors",
+    "size": 18,
+    "role": "WNBA all-time great; Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "WNBA legend and the league's all-time leading scorer, among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Diana Taurasi among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "marshawn_lynch",
+    "label": "Marshawn Lynch",
+    "category": "investors",
+    "size": 18,
+    "role": "Former NFL star ('Beast Mode'); Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "Former NFL Pro Bowl running back, among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Marshawn Lynch among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "richard_sherman",
+    "label": "Richard Sherman",
+    "category": "investors",
+    "size": 18,
+    "role": "Former NFL All-Pro; Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "Former NFL All-Pro cornerback and Super Bowl champion, among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Richard Sherman among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
   }
 ]

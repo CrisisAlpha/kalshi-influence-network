@@ -810,5 +810,69 @@
     "width": 4,
     "label": "Coatue LED $1B round\n@ $22B valuation (May 2026)",
     "title": "Philippe Laffont's Coatue Management led Kalshi's $1B round at a $22B valuation (announced 7 May 2026), with Sequoia, a16z, IVP, Paradigm, Morgan Stanley and ARK Invest. Laffont: 'Kalshi is building the leading platform for trading in real-world events.' Source: Business Wire; Yahoo Finance."
+  },
+  {
+    "src": "justin_mateen",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Early/seed investor (YC W19 era)",
+    "title": "Tinder co-founder and JAM Fund founder Justin Mateen was an early/seed investor in Kalshi (a Y Combinator W19 company), long before its multibillion-dollar rounds. Source: dot.LA; Kalshi investor records (Wellfound)."
+  },
+  {
+    "src": "factory_holdings",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Led $4.7M 'cultural capital'\ninvestment (athlete cohort, 2026)",
+    "title": "Factory Holdings led a $4.7M 'cultural capital' investment in Kalshi, bringing a cohort of pro athletes and entertainers onto the cap table as part of Kalshi's 2026 fundraising. Source: PR Newswire; Front Office Sports; FinSMEs."
+  },
+  {
+    "src": "breanna_stewart",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Breanna Stewart took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "nneka_ogwumike",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\n(WNBPA President)",
+    "title": "Nneka Ogwumike -- WNBPA President -- took a Kalshi equity stake through Factory's $4.7M cultural-capital investment, putting a players'-union head on the cap table of an exchange that prices her league. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "diana_taurasi",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Diana Taurasi took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "marshawn_lynch",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Marshawn Lynch took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "richard_sherman",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Richard Sherman took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "giannis_antetokounmpo",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "First active NBA player\nwith direct equity stake (2026)",
+    "title": "Giannis Antetokounmpo took a reported sub-1% direct equity stake in Kalshi (2026) and starred in a Kalshi NBA Finals ad -- the first active NBA player to own part of the exchange. Source: Prediction News; iGaming Business."
+  },
+  {
+    "src": "giannis_antetokounmpo",
+    "dst": "elie_mishory",
+    "dashes": true,
+    "width": 2,
+    "label": "Causal-power test:\nathlete equity-holder can move outcomes",
+    "title": "An active NBA superstar holding equity in an exchange that prices NBA games is the exact conflict Mishory's 'causal-power test' targets (actors -- athletes, politicians, officials -- who can influence settlement). Reporting flagged the integrity question directly. Thematic/integrity link -- inferred, requires verification. Source: iGaming Business."
   }
 ]
