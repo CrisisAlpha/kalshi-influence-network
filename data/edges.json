@@ -674,5 +674,141 @@
     "width": 2,
     "label": "Held Robinhood shares (pre-divestment)\nbefore overseeing crypto policy",
     "title": "David Sacks' OGE disclosure showed he held Robinhood shares at the time of his appointment. He divested before taking office. Robinhood is Kalshi's primary retail distribution partner. Sacks thus had pre-existing financial interests in both of Kalshi's two largest retail distributors while serving as the government's crypto policy czar. Source: NBC New York OGE disclosure report (March 2025)."
+  },
+  {
+    "src": "ice",
+    "dst": "polymarket",
+    "width": 4,
+    "label": "Strategic investor * up to ~$2B\n$1B (Oct 2025) + $600M (Mar 2026)",
+    "title": "Intercontinental Exchange (NYSE owner) made a strategic investment of up to ~$2B in Polymarket: $1B in Oct 2025 (~$8B reported pre-investment valuation) plus a further $600M completed 27 Mar 2026 (~$1.64B committed). ICE also agreed to globally distribute Polymarket's event-driven data and to explore tokenization -- the headline TradFi endorsement of Kalshi's main rival. Source: ICE press releases (Oct 2025; 27 Mar 2026); CoinDesk (27 Mar 2026)."
+  },
+  {
+    "src": "charles_schwab",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Early investor (Feb 2021 ~$30M round);\nbrokerage wary of integration",
+    "title": "Charles R. Schwab backed Kalshi's ~$30M round in Feb 2021 (with Sequoia, Henry Kravis, SV Angel, Neo, YC Continuity). The Schwab brokerage, however, says it is only monitoring prediction markets with no near-term plans, and CEO Rick Wurster has warned against 'blending' sports betting and investing. Source: Casino.org; InvestmentNews."
+  },
+  {
+    "src": "peng_zhao",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Backer * $185M Series C\n(June 2025, $2B valuation)",
+    "title": "Citadel Securities CEO Peng Zhao was a named backer of Kalshi's $185M Series C (June 2025), led by Paradigm at a $2B valuation, alongside Sequoia, Multicoin, Neo and BOND Capital. Source: Crowdfund Insider; The Block."
+  },
+  {
+    "src": "peng_zhao",
+    "dst": "tarek_mansour",
+    "dashes": true,
+    "width": 2,
+    "label": "Citadel alumni thread\n(founders ex-Citadel)",
+    "title": "Kalshi co-founders Tarek Mansour and Luana Lopes Lara both worked at Citadel early in their careers; Peng Zhao leads sister firm Citadel Securities (same Griffin umbrella, distinct entity) -- the prior-Wall-Street thread underlying his investment. Connection is alumni/affiliation -- inferred, requires verification."
+  },
+  {
+    "src": "samantha_schwab",
+    "dst": "kalshi",
+    "dashes": true,
+    "width": 3,
+    "label": "Director of Business Development\n(prior role) -> Trump Treasury",
+    "title": "Samantha Schwab was Kalshi's Director of Business Development before joining the second Trump administration's Treasury Department in Jan 2025 -- a direct Kalshi-to-administration revolving door. Source: LegiStorm; Prediction News; InvestmentNews."
+  },
+  {
+    "src": "samantha_schwab",
+    "dst": "us_treasury",
+    "width": 3,
+    "label": "Principal Deputy Chief of Staff\n(Trump appointee, Jan 2025-)",
+    "title": "Appointed Deputy Chief of Staff at the U.S. Treasury in January 2025 and Principal Deputy Chief of Staff (Office of the Secretary) by April 2026 -- a former Kalshi BD executive inside the Treasury Secretary's office. Source: LegiStorm."
+  },
+  {
+    "src": "samantha_schwab",
+    "dst": "charles_schwab",
+    "dashes": true,
+    "width": 2,
+    "label": "Granddaughter",
+    "title": "Samantha Schwab is the granddaughter of Charles Schwab founder Charles R. Schwab, an early Kalshi investor -- a family thread linking Kalshi's cap table to a Trump Treasury appointee. Source: InvestmentNews; Prediction News."
+  },
+  {
+    "src": "thomas_peterffy",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Offered to acquire Kalshi (2021, rejected)\n-> IBKR distribution partner",
+    "title": "Interactive Brokers founder Thomas Peterffy made an offer to buy Kalshi in 2021 (through Sequoia's Alfred Lin); co-founders Mansour and Lara declined. IBKR later became a distribution partner offering event contracts largely via Kalshi. Source: Finance Magnates (Mansour reveal)."
+  },
+  {
+    "src": "thomas_peterffy",
+    "dst": "alfred_lin",
+    "dashes": true,
+    "width": 2,
+    "label": "Made 2021 Kalshi buyout offer\nthrough Sequoia's Alfred Lin",
+    "title": "Peterffy invited Sequoia partner Alfred Lin -- already tied to Kalshi's board -- to his home to make the 2021 acquisition offer, routing the bid through Kalshi's own investor-board nexus. Source: Finance Magnates (Mansour)."
+  },
+  {
+    "src": "thomas_peterffy",
+    "dst": "donald_trump_jr",
+    "dashes": true,
+    "width": 2,
+    "label": "Republican/Trump megadonor\n(shared Trump political orbit)",
+    "title": "Peterffy is a major Republican donor: he gave to Trump's 2020 campaign and ~$7M to Republican causes in 2024 (incl. the Trump 47 Committee), plus multiple $1M gifts to Youngkin's PAC. This places the would-be Kalshi acquirer in the same Trump/GOP political orbit as Kalshi advisor Donald Trump Jr. Connection is shared-orbit/political-alignment -- inferred, requires verification. Source: NBC News; OpenSecrets."
+  },
+  {
+    "src": "us_treasury",
+    "dst": "david_sacks",
+    "dashes": true,
+    "width": 2,
+    "label": "President's Working Group on\nDigital Asset Markets (EO 23 Jan 2025)",
+    "title": "By executive order of Jan 23, 2025, the Treasury Secretary is a member of the President's Working Group on Digital Asset Markets, chaired by White House AI & Crypto Czar David Sacks -- the body writing the federal crypto/digital-asset framework. Source: Reuters; Paul Hastings."
+  },
+  {
+    "src": "us_treasury",
+    "dst": "cftc",
+    "dashes": true,
+    "width": 2,
+    "label": "Co-members: President's Working Group\non Digital Asset Markets",
+    "title": "Treasury and the CFTC chair both sit on the President's Working Group on Digital Asset Markets (EO Jan 23, 2025), coordinating the administration's digital-asset and prediction-market policy. Source: Reuters; Paul Hastings."
+  },
+  {
+    "src": "henry_kravis",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Series A backer * $30M (Aug 2021, Sequoia-led)",
+    "title": "KKR co-founder Henry Kravis backed Kalshi's $30M Series A in August 2021 (led by Sequoia, with Charles Schwab and SV Angel) -- the round TechCrunch called the 'Sequoia- and Henry Kravis-backed prediction market.' Source: TechCrunch; Kalshi Series A announcement."
+  },
+  {
+    "src": "henry_kravis",
+    "dst": "donald_trump_jr",
+    "dashes": true,
+    "width": 2,
+    "label": "GOP donor / $1M Trump inaugural\n(Trump political orbit)",
+    "title": "Henry Kravis is a longtime Republican donor who gave $1M to Donald Trump's inaugural committee, placing another early Kalshi backer in the Trump/GOP political orbit alongside Kalshi advisor Donald Trump Jr. Connection is shared political orbit -- inferred, requires verification. Source: Wikipedia/reporting."
+  },
+  {
+    "src": "jeff_yass",
+    "dst": "kalshi",
+    "width": 3,
+    "label": "Susquehanna (SIG): Kalshi's first\ninstitutional market maker (Apr 2024)",
+    "title": "Jeff Yass's Susquehanna International Group became Kalshi's first dedicated institutional market maker in April 2024, supplying the liquidity Tarek Mansour said 'changed everything' for prediction markets. Source: Business Wire; Kalshi."
+  },
+  {
+    "src": "jeff_yass",
+    "dst": "trump_media_tech_group",
+    "dashes": true,
+    "width": 2,
+    "label": "SIG invested in DWAC\n(Truth Social SPAC)",
+    "title": "Susquehanna invested in Digital World Acquisition Corp, the SPAC that merged with Trump Media & Technology Group (Truth Social), linking Kalshi's lead market maker to the Trump family media vehicle. Source: The Philadelphia Inquirer."
+  },
+  {
+    "src": "jeff_yass",
+    "dst": "robinhood",
+    "dashes": true,
+    "width": 2,
+    "label": "SIG-Robinhood prediction-market JV\n(Rothera exchange)",
+    "title": "Susquehanna partnered with Robinhood -- Kalshi's largest retail distributor -- as a day-one liquidity provider for a new regulated exchange (Rothera), placing Yass's SIG on both sides of the prediction-market boom. Source: reporting (iGame / Next Event Horizon, 2026). Inferred scope - requires verification."
+  },
+  {
+    "src": "philippe_laffont",
+    "dst": "kalshi",
+    "width": 4,
+    "label": "Coatue LED $1B round\n@ $22B valuation (May 2026)",
+    "title": "Philippe Laffont's Coatue Management led Kalshi's $1B round at a $22B valuation (announced 7 May 2026), with Sequoia, a16z, IVP, Paradigm, Morgan Stanley and ARK Invest. Laffont: 'Kalshi is building the leading platform for trading in real-world events.' Source: Business Wire; Yahoo Finance."
   }
 ]

@@ -1037,5 +1037,204 @@
       }
     ],
     "verification": "Verified: Eric Trump co-promotes World Liberty Financial per public announcements."
+  },
+  {
+    "id": "ice",
+    "label": "Intercontinental\nExchange (ICE)",
+    "category": "investors",
+    "size": 28,
+    "role": "NYSE owner; strategic investor in Polymarket (up to ~$2B committed) and distributor of its event data",
+    "bio": "Intercontinental Exchange -- the Atlanta-based operator of the New York Stock Exchange -- is the marquee traditional-finance backer of Kalshi's chief rival, Polymarket. ICE announced a strategic investment of up to ~$2B in October 2025 (reported at roughly an $8B pre-investment valuation), then on March 27, 2026 completed a further $600M direct cash investment, bringing committed capital to ~$1.64B plus up to $40M in additional purchases from existing holders. Beyond the equity, ICE agreed to become a global distributor of Polymarket's event-driven data (sentiment indicators for institutional clients) and to explore tokenization. It mirrors, on the Polymarket side, the same TradFi-legitimization wave that pulled Tradeweb, Citadel Securities' Peng Zhao, and Charles Schwab into Kalshi's orbit.",
+    "sources": [
+      {
+        "text": "ICE - ICE Announces Strategic Investment in Polymarket (Oct 2025)",
+        "url": "https://ir.theice.com/press/news-details/2025/ICE-Announces-Strategic-Investment-in-Polymarket/default.aspx"
+      },
+      {
+        "text": "ICE - Intercontinental Exchange Announces New $600 Million Investment in Polymarket (27 Mar 2026)",
+        "url": "https://ir.theice.com/press/news-details/2026/Intercontinental-Exchange-Announces-New-600-Million-Investment-in-Polymarket/default.aspx"
+      },
+      {
+        "text": "CoinDesk - NYSE owner doubles down on Polymarket with fresh $600 million investment (27 Mar 2026)",
+        "url": "https://www.coindesk.com/markets/2026/03/27/nyse-owner-doubles-down-on-polymarket-with-fresh-usd600-million-investment"
+      }
+    ],
+    "verification": "Verified: $1B initial (Oct 2025) + $600M (27 Mar 2026) direct investments, ~$1.64B total, per ICE press releases; ~$2B commitment / ~$8B valuation and data-distribution + tokenization partnership per ICE Oct 2025 announcement and CoinDesk."
+  },
+  {
+    "id": "charles_schwab",
+    "label": "Charles Schwab\n(founder + brokerage)",
+    "category": "investors",
+    "size": 26,
+    "role": "Founder Charles R. Schwab was an early Kalshi investor (2021); the Schwab brokerage is only monitoring -- and its CEO is publicly wary of -- prediction markets",
+    "bio": "Charles R. Schwab, founder of the discount-brokerage giant, was an early individual backer of Kalshi, joining its ~$30M round in February 2021 alongside Sequoia, Henry Kravis, SV Angel, Neo and Y Combinator Continuity. The relationship is pointedly two-sided: while a Schwab founder put in early capital, the Charles Schwab Corp itself says it is only 'staying up to date' on prediction markets with no near-term plans to offer them, and CEO Rick Wurster has publicly warned against the 'blending' of sports betting and investing -- a rare note of traditional-finance caution from inside Kalshi's own cap table. The family thread runs deeper than capital: Charles R. Schwab's granddaughter, Samantha Schwab, was Kalshi's Director of Business Development before becoming a Trump-administration Treasury official.",
+    "sources": [
+      {
+        "text": "Casino.org - Kalshi Investor Schwab Staying Abreast of Prediction Market Developments",
+        "url": "https://www.casino.org/news/kalshi-investor-schwab-staying-abreast-of-prediction-market-developments/"
+      },
+      {
+        "text": "InvestmentNews - Schwab monitors prediction markets as Kalshi targets brokerages",
+        "url": "https://www.investmentnews.com/emerging-markets/schwab-monitors-prediction-markets-as-kalshi-targets-brokerages/260787"
+      },
+      {
+        "text": "InvestmentNews - We must combat 'blending' of sports betting and investing, warns Schwab CEO",
+        "url": "https://www.investmentnews.com/ria-news/schwab-ceo-sports-betting-prediction-markets/262895"
+      }
+    ],
+    "verification": "Verified: Charles R. Schwab in Kalshi's Feb 2021 ~$30M round and Schwab Corp's monitoring stance per Casino.org/InvestmentNews; CEO Rick Wurster's caution on blending betting and investing per InvestmentNews."
+  },
+  {
+    "id": "peng_zhao",
+    "label": "Peng Zhao\n(Citadel Securities CEO)",
+    "category": "investors",
+    "size": 24,
+    "role": "CEO of Citadel Securities; backer of Kalshi's $185M Series C (June 2025, $2B valuation)",
+    "bio": "Peng Zhao, chief executive of market-making giant Citadel Securities, was among the named backers of Kalshi's $185M Series C in June 2025, which valued the exchange at $2B and was led by Paradigm (with Sequoia, Multicoin, Neo and BOND Capital). His participation tightened an existing Wall Street thread: Kalshi co-founders Tarek Mansour and Luana Lopes Lara both worked at Citadel early in their careers -- though their tenure was at Ken Griffin's Citadel hedge fund, while Zhao runs its sister market-maker Citadel Securities (related under the Griffin umbrella, but distinct entities).",
+    "sources": [
+      {
+        "text": "Crowdfund Insider - Kalshi Raises $185 Million At A $2 Billion Valuation (June 2025)",
+        "url": "https://www.crowdfundinsider.com/2025/06/243459-kalshi-raises-185-million-at-a-2-billion-valuation/"
+      },
+      {
+        "text": "The Block - Kalshi raising $185 million at $2 billion valuation in a Series C round led by Paradigm",
+        "url": "https://www.theblock.co/post/359661/kalshi-raising-100-million-at-1-billion-valuation-with-backing-from-paradigm-report"
+      }
+    ],
+    "verification": "Verified: Peng Zhao (Citadel Securities CEO) named among Kalshi's $185M Series C backers (June 2025, $2B valuation, led by Paradigm) per Crowdfund Insider and The Block. Founders' Citadel background per Kalshi public bios; hedge-fund vs. Citadel Securities distinction noted - exact entity relationship inferred, requires verification."
+  },
+  {
+    "id": "samantha_schwab",
+    "label": "Samantha Schwab",
+    "category": "political",
+    "size": 22,
+    "role": "Kalshi Director of Business Development -> U.S. Treasury Principal Deputy Chief of Staff (Trump admin); granddaughter of Charles R. Schwab",
+    "bio": "A direct Kalshi-to-administration revolving door. Samantha Schwab -- granddaughter of Charles Schwab founder Charles R. Schwab -- served in Donald Trump's first-term White House (Office of Legislative Affairs; Deputy Press Secretary and Director of Specialty Media; a media role in the Office of the Vice President), then became Kalshi's Director of Business Development, and in January 2025 was appointed Deputy Chief of Staff at the U.S. Department of the Treasury under the second Trump administration; by April 2026 she was Principal Deputy Chief of Staff in the Office of the Secretary. Stanford B.A. (Economics) and Stanford MBA. She places a former Kalshi business-development executive inside the Treasury Secretary's office while her family's firm sits on Kalshi's early cap table.",
+    "sources": [
+      {
+        "text": "LegiStorm - Samantha V. Schwab bio (U.S. Treasury, Office of the Secretary, Principal Deputy Chief of Staff, April 2026-)",
+        "url": "https://www.legistorm.com/person/bio/353134/Samantha_V_Schwab.html"
+      },
+      {
+        "text": "Prediction News - Kalshi Goes to Washington: friends in the Trump administration",
+        "url": "https://predictionnews.com/news/kalshi-goes-to-washington/"
+      },
+      {
+        "text": "InvestmentNews - Schwab monitors prediction markets as Kalshi targets brokerages (notes Samantha Schwab Kalshi -> Treasury)",
+        "url": "https://www.investmentnews.com/emerging-markets/schwab-monitors-prediction-markets-as-kalshi-targets-brokerages/260787"
+      }
+    ],
+    "verification": "Verified: Kalshi Director of Business Development; Trump first-term White House roles; Jan 2025 Treasury Deputy Chief of Staff and April 2026 Principal Deputy Chief of Staff per LegiStorm; Kalshi-to-Trump-admin path per Prediction News and InvestmentNews; granddaughter of Charles R. Schwab per reporting."
+  },
+  {
+    "id": "thomas_peterffy",
+    "label": "Thomas Peterffy\n(Interactive Brokers)",
+    "category": "investors",
+    "size": 24,
+    "role": "Founder & Chairman, Interactive Brokers; Republican megadonor; offered to acquire Kalshi in 2021 (rejected)",
+    "bio": "Billionaire founder and chairman of Interactive Brokers and one of the largest Republican political donors in the country. In 2021 he made an early bid to buy Kalshi outright -- inviting Sequoia partner Alfred Lin (already tied to Kalshi's board) to his home to make the offer -- which co-founders Tarek Mansour and Luana Lopes Lara rejected; Mansour later said 'Thomas saw the vision before most people did.' IBKR instead became a distribution partner, offering event contracts largely through Kalshi. Politically, Peterffy gave to Trump's 2020 campaign and roughly $7M to Republican causes in the 2024 cycle (including the Trump 47 Committee), and has made multiple $1M donations to Glenn Youngkin's Spirit of Virginia PAC -- placing a would-be owner of Kalshi squarely in the Republican donor network whose 2024 wins reshaped the CFTC.",
+    "sources": [
+      {
+        "text": "Finance Magnates - Interactive Brokers Founder Wanted to Buy Kalshi in 2021 (Mansour reveal)",
+        "url": "https://www.financemagnates.com/forex/interactive-brokers-founder-wanted-to-buy-kalshi-in-2021/"
+      },
+      {
+        "text": "NBC News - GOP megadonor Thomas Peterffy donates another $1 million to Glenn Youngkin",
+        "url": "https://www.nbcnews.com/politics/2024-election/gop-megadonor-thomas-peterffy-donates-another-1-million-glenn-youngkin-rcna97011"
+      },
+      {
+        "text": "OpenSecrets - donor records (Thomas Peterffy)",
+        "url": "https://www.opensecrets.org"
+      }
+    ],
+    "verification": "Verified: 2021 Kalshi acquisition offer via Alfred Lin and rejection per Finance Magnates (Mansour); GOP megadonor status and Youngkin $1M donations per NBC News; Trump 2020 and 2024 Republican giving per reporting/OpenSecrets - exact 2024 totals approximate, requires verification."
+  },
+  {
+    "id": "us_treasury",
+    "label": "U.S. Department\nof the Treasury",
+    "category": "regulators",
+    "size": 26,
+    "role": "Federal economic/financial department (Sec. Scott Bessent); member of the President's Working Group on Digital Asset Markets; employer of ex-Kalshi exec Samantha Schwab",
+    "bio": "The U.S. Treasury, led under the second Trump administration by Secretary Scott Bessent, sits inside the administration's pro-crypto financial-policy apparatus. By executive order of January 23, 2025, the Treasury Secretary is a member of the President's Working Group on Digital Asset Markets -- chaired by White House AI & Crypto Czar David Sacks and including the CFTC and SEC chairs -- the body tasked with the federal framework for digital assets and event/prediction-adjacent markets. Treasury also now employs former Kalshi business-development director Samantha Schwab as Principal Deputy Chief of Staff, a direct personnel bridge between the exchange and the Secretary's office.",
+    "sources": [
+      {
+        "text": "Reuters via Yahoo - Trump signs executive order establishing crypto working group (23 Jan 2025)",
+        "url": "https://www.yahoo.com/news/trump-signs-executive-order-establishing-214743651.html"
+      },
+      {
+        "text": "Paul Hastings - Crypto Executive Order: A New Era for Digital Assets (Working Group membership: Treasury, CFTC, SEC)",
+        "url": "https://www.paulhastings.com/insights/client-alerts/crypto-executive-order-a-new-era-for-digital-assets"
+      },
+      {
+        "text": "U.S. Treasury - Secretary Bessent remarks at the launch of the White House Digital Assets Report",
+        "url": "https://home.treasury.gov/news/press-releases/sb0216"
+      }
+    ],
+    "verification": "Verified: Treasury Secretary is a member of the President's Working Group on Digital Asset Markets (EO Jan 23, 2025), chaired by Sacks with CFTC/SEC chairs, per Reuters and Paul Hastings; Bessent leadership per Treasury releases; Samantha Schwab Treasury role per LegiStorm (see her node)."
+  },
+  {
+    "id": "henry_kravis",
+    "label": "Henry Kravis\n(KKR)",
+    "category": "investors",
+    "size": 24,
+    "role": "KKR co-founder; early Kalshi backer (2021 Series A); Republican donor",
+    "bio": "Co-founder and co-chairman of private-equity giant KKR, and one of the early marquee names on Kalshi's cap table -- he backed the $30M Series A led by Sequoia in August 2021 (the round TechCrunch dubbed the 'Sequoia- and Henry Kravis-backed prediction market'), alongside Charles Schwab and SV Angel. A longtime Republican donor, Kravis gave $1M to Donald Trump's inaugural committee, situating another Kalshi founder-investor inside the GOP donor class.",
+    "sources": [
+      {
+        "text": "TechCrunch - This Sequoia- and Henry Kravis-backed prediction market wants to turn opinions into money (Aug 2021)",
+        "url": "https://techcrunch.com/2021/08/30/this-sequoia-and-henry-kravis-backed-prediction-market-wants-to-turn-opinions-into-money/"
+      },
+      {
+        "text": "Kalshi - Kalshi Raises $30 Million in Series A Funding Led by Sequoia (2021)",
+        "url": "https://news.kalshi.com/p/kalshi-raises-30-million-in-series-a-funding-led-by-sequoia"
+      },
+      {
+        "text": "Wikipedia - Henry Kravis (political donations, incl. Trump inaugural)",
+        "url": "https://en.wikipedia.org/wiki/Henry_Kravis"
+      }
+    ],
+    "verification": "Verified: Series A backer (Aug 2021) per TechCrunch and Kalshi announcement; Republican donor and $1M Trump inaugural gift per Wikipedia/reporting - donation year/committee approximate, requires verification."
+  },
+  {
+    "id": "jeff_yass",
+    "label": "Jeff Yass\n(Susquehanna / SIG)",
+    "category": "investors",
+    "size": 26,
+    "role": "Co-founder, Susquehanna International Group (Kalshi's first institutional market maker); Libertarian/GOP megadonor; Trump-aligned",
+    "bio": "Co-founder and managing director of Susquehanna International Group (SIG), the Philadelphia trading giant that in April 2024 became Kalshi's first dedicated institutional market maker -- the liquidity backbone Tarek Mansour said 'changed everything' for prediction markets. Yass is also one of America's biggest political donors: a registered Libertarian who has given $60M+ to Club for Growth since 2016 (incl. ~$19M to its action PAC in 2024) and other conservative causes. His firm holds a large ByteDance/TikTok stake (he met Trump before Trump's 2024 reversal on a TikTok ban), and SIG invested in Digital World Acquisition Corp, the SPAC that merged with Trump Media & Technology Group (Truth Social). He links Kalshi's order book to the Trump-aligned megadonor network.",
+    "sources": [
+      {
+        "text": "Business Wire - Kalshi Onboards Its First Dedicated Institutional Market Maker [Susquehanna] (Apr 2024)",
+        "url": "https://www.businesswire.com/news/home/20240403664852/en/Kalshi-Onboards-Its-First-Dedicated-Institutional-Market-Maker"
+      },
+      {
+        "text": "The Philadelphia Inquirer - Jeffrey Yass' firm invested in company that merged with Trump's Truth Social",
+        "url": "https://www.inquirer.com/politics/election/jeff-yass-donald-trump-truth-social-pennsylvania-politics-20240322.html"
+      },
+      {
+        "text": "Fortune - Trump's relationship with mega donor Jeff Yass could help TikTok avoid a ban (Club for Growth; ByteDance)",
+        "url": "https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/"
+      }
+    ],
+    "verification": "Verified: Susquehanna (SIG) as Kalshi's first institutional market maker (Apr 2024) per Business Wire/Kalshi; Club for Growth megadonor, ByteDance/TikTok stake, Trump meeting per Fortune; SIG investment in the Truth Social SPAC (DWAC) per Philadelphia Inquirer."
+  },
+  {
+    "id": "philippe_laffont",
+    "label": "Philippe Laffont\n(Coatue)",
+    "category": "investors",
+    "size": 26,
+    "role": "Founder & CIO, Coatue Management; led Kalshi's $1B round at a $22B valuation (May 2026)",
+    "bio": "Founder and chief investment officer of Coatue Management, the tech-focused hedge fund that led Kalshi's $1B round at a $22B valuation announced May 7, 2026 -- alongside Sequoia, a16z, IVP, Paradigm, Morgan Stanley and ARK Invest. Laffont said 'Kalshi is building the leading platform for trading in real-world events.' His check is the clearest marker of institutional-TradFi adoption; unlike Kravis, Yass or Peterffy, Laffont's tie to the network is financial rather than overtly political -- the round itself is the story.",
+    "sources": [
+      {
+        "text": "Business Wire - Kalshi Raises $1 Billion at a $22 Billion Valuation as Institutional Adoption Accelerates (7 May 2026)",
+        "url": "https://www.businesswire.com/news/home/20260507526629/en/Kalshi-Raises-1-Billion-at-a-22-Billion-Valuation-as-Institutional-Adoption-Accelerates"
+      },
+      {
+        "text": "Yahoo Finance - Kalshi Raises $1B, Now Valued at $22B After Latest Funding Round (May 2026)",
+        "url": "https://finance.yahoo.com/markets/options/articles/kalshi-raises-1b-now-valued-201000737.html"
+      }
+    ],
+    "verification": "Verified: Coatue led Kalshi's $1B round at $22B valuation (7 May 2026) with the named co-investors, and Laffont's quote, per Business Wire and Yahoo Finance. No prominent political donations established for Laffont - financial tie only."
   }
 ]
