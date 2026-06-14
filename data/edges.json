@@ -375,9 +375,9 @@
   {
     "src": "peter_thiel_founders_fund",
     "dst": "polymarket",
-    "width": 3,
-    "label": "Major investor (raised millions)",
-    "title": "Peter Thiel / Founders Fund raised millions for Polymarket. Sources: Popular Information, Forbes."
+    "width": 4,
+    "label": "Lead venture backer: led $45M Series B (2024)\n& ~$200M round @ ~$1B val. (June 2025)",
+    "title": "Founders Fund (Peter Thiel) is Polymarket's lead venture backer -- it led the $45M Series B (May 2024, with Vitalik Buterin, 1confirmation, ParaFi, Dragonfly) and the ~$200M round at a ~$1B valuation (June 2025), and stayed involved through later rounds. Sources: The Block (May 2024); Bloomberg (June 2025)."
   },
   {
     "src": "world_liberty_financial",
@@ -874,5 +874,83 @@
     "width": 2,
     "label": "Causal-power test:\nathlete equity-holder can move outcomes",
     "title": "An active NBA superstar holding equity in an exchange that prices NBA games is the exact conflict Mishory's 'causal-power test' targets (actors -- athletes, politicians, officials -- who can influence settlement). Reporting flagged the integrity question directly. Thematic/integrity link -- inferred, requires verification. Source: iGaming Business."
+  },
+  {
+    "src": "connor_mcdavid",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Connor McDavid (NHL, Edmonton Oilers) took a Kalshi equity stake through Factory's $4.7M cultural-capital investment -- while Kalshi is an official NHL prediction-market partner. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "ajay_mitchell",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Ajay Mitchell (NBA, Oklahoma City Thunder) took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "jaime_jaquez",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Jaime Jaquez Jr. (NBA, Miami Heat) took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "gabriela_jaquez",
+    "dst": "factory_holdings",
+    "width": 2,
+    "label": "Equity via Factory\ncultural-capital investment",
+    "title": "Gabriela Jaquez (UCLA basketball; sister of Jaime Jaquez Jr.) took a Kalshi equity stake through Factory's $4.7M cultural-capital investment. Source: Front Office Sports; PR Newswire."
+  },
+  {
+    "src": "vitalik_buterin",
+    "dst": "polymarket",
+    "width": 3,
+    "label": "Personal investor * Series B (2024)",
+    "title": "Ethereum co-founder Vitalik Buterin personally invested in Polymarket's $45M Series B (May 2024), led by Founders Fund. Source: The Block; Blockworks."
+  },
+  {
+    "src": "general_catalyst",
+    "dst": "polymarket",
+    "width": 3,
+    "label": "Led Series A (~$25M);\nco-anchored ~$205M bridge (2025)",
+    "title": "General Catalyst led Polymarket's ~$25M Series A and co-anchored its ~$205M 2025 bridge round (with Blockchain Capital). Source: The Block; Gambling Insider."
+  },
+  {
+    "src": "blockchain_capital",
+    "dst": "polymarket",
+    "width": 2,
+    "label": "Co-anchored ~$205M bridge (2025)",
+    "title": "Blockchain Capital co-anchored Polymarket's ~$205M bridge round in mid-2025 alongside General Catalyst. Source: Gambling Insider; Public Gaming Research Institute."
+  },
+  {
+    "src": "one_confirmation",
+    "dst": "polymarket",
+    "width": 3,
+    "label": "Backer every round\n(seed -> Series B)",
+    "title": "1confirmation (Nick Tomaino) participated in every Polymarket round from seed through the 2024 Series B -- one of its most consistent backers. Source: The Block."
+  },
+  {
+    "src": "joe_gebbia",
+    "dst": "polymarket",
+    "width": 3,
+    "label": "Series A backer (Airbnb co-founder)",
+    "title": "Airbnb co-founder Joe Gebbia backed Polymarket's ~$25M Series A (led by General Catalyst). Source: The Block."
+  },
+  {
+    "src": "joe_gebbia",
+    "dst": "david_sacks",
+    "dashes": true,
+    "width": 2,
+    "label": "Trump-administration tech orbit\n(DOGE / National Design Studio)",
+    "title": "Joe Gebbia joined Elon Musk's DOGE (early 2025) and became the first federal Chief Design Officer (Aug 2025), placing the Polymarket backer in the same Trump-administration Silicon Valley orbit as crypto/AI czar David Sacks -- a Polymarket-side mirror of Kalshi's administration ties. Shared-orbit link -- inferred, requires verification. Source: Newsweek; Nextgov."
+  },
+  {
+    "src": "kevin_hartz",
+    "dst": "polymarket",
+    "width": 2,
+    "label": "Series B investor (Eventbrite co-founder)",
+    "title": "Eventbrite co-founder Kevin Hartz participated in Polymarket's $45M Series B (2024). Source: The Block."
   }
 ]

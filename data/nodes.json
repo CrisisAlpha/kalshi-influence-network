@@ -1392,5 +1392,191 @@
       }
     ],
     "verification": "Verified: Richard Sherman among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "connor_mcdavid",
+    "label": "Connor McDavid",
+    "category": "investors",
+    "size": 20,
+    "role": "NHL superstar (Edmonton Oilers captain); Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "Edmonton Oilers captain and perennial NHL MVP, widely regarded as the best hockey player in the world. Among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment -- pointed, because Kalshi is an official NHL prediction-market partner, so a star player now holds equity in an exchange running markets on his own league.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Connor McDavid among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "ajay_mitchell",
+    "label": "Ajay Mitchell",
+    "category": "investors",
+    "size": 16,
+    "role": "NBA guard (Oklahoma City Thunder); Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "NBA guard for the Oklahoma City Thunder, among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago (lists Ajay Mitchell)",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Ajay Mitchell among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "jaime_jaquez",
+    "label": "Jaime Jaquez Jr.",
+    "category": "investors",
+    "size": 16,
+    "role": "NBA forward (Miami Heat); Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "NBA forward for the Miami Heat, among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Jaime Jaquez Jr. among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire."
+  },
+  {
+    "id": "gabriela_jaquez",
+    "label": "Gabriela Jaquez",
+    "category": "investors",
+    "size": 16,
+    "role": "College basketball player (UCLA); Kalshi equity investor via Factory Holdings (2026)",
+    "bio": "College basketball player at UCLA and sister of NBA player Jaime Jaquez Jr., among the athletes who took a Kalshi equity stake through Factory's $4.7M cultural-capital investment.",
+    "sources": [
+      {
+        "text": "Front Office Sports - Pile of Famous Athletes Quietly Invested in Kalshi Months Ago",
+        "url": "https://frontofficesports.com/kalshi-athlete-investors-breanna-stewart-nneka-ogwumike-ajay-mitchell/"
+      },
+      {
+        "text": "PR Newswire - Factory Leads $4.7 Million Cultural Capital Investment in Kalshi",
+        "url": "http://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html"
+      }
+    ],
+    "verification": "Verified: Gabriela Jaquez among athletes in Factory's $4.7M cultural-capital Kalshi investment per Front Office Sports and PR Newswire; UCLA affiliation per public record."
+  },
+  {
+    "id": "vitalik_buterin",
+    "label": "Vitalik Buterin",
+    "category": "investors",
+    "size": 24,
+    "role": "Ethereum co-founder; personal investor in Polymarket (Series B, 2024)",
+    "bio": "Co-founder of Ethereum, the blockchain Polymarket is built on. He personally invested in Polymarket's $45M Series B (May 2024) led by Founders Fund -- a marquee crypto-native endorsement of Kalshi's main rival, distinct from the traditional-finance capital (ICE) that arrived later.",
+    "sources": [
+      {
+        "text": "The Block - Polymarket raises $45 million from Peter Thiel's Founders Fund, Vitalik Buterin and others (May 2024)",
+        "url": "https://www.theblock.co/post/294367/polymarket-raises-45-million-from-peter-thiels-founders-fund-vitalik-buterin-and-others"
+      },
+      {
+        "text": "Blockworks - Polymarket gets backing from Vitalik Buterin, Founders Fund in $70M raise",
+        "url": "https://blockworks.com/news/polymarket-funding-backed-by-vitalik-buterin"
+      }
+    ],
+    "verification": "Verified: Vitalik Buterin personal investor in Polymarket's 2024 Series B per The Block and Blockworks."
+  },
+  {
+    "id": "general_catalyst",
+    "label": "General Catalyst",
+    "category": "investors",
+    "size": 24,
+    "role": "Led Polymarket's Series A (~$25M); co-anchored its ~$205M 2025 bridge round",
+    "bio": "Venture firm General Catalyst led Polymarket's previously undisclosed ~$25M Series A and returned to co-anchor (with Blockchain Capital) a ~$205M bridge round in mid-2025 as Polymarket scaled toward a multibillion-dollar valuation. A core institutional backer of Kalshi's primary rival.",
+    "sources": [
+      {
+        "text": "The Block - Polymarket raises $45 million from Founders Fund, Vitalik Buterin and others (notes General Catalyst-led Series A)",
+        "url": "https://www.theblock.co/post/294367/polymarket-raises-45-million-from-peter-thiels-founders-fund-vitalik-buterin-and-others"
+      },
+      {
+        "text": "Gambling Insider - Who Owns Polymarket? Founders, Investors & Key Backers in 2026",
+        "url": "https://www.gamblinginsider.com/in-depth/117118/who-owns-polymarket"
+      }
+    ],
+    "verification": "Verified: General Catalyst led Polymarket's Series A and co-anchored the ~$205M 2025 bridge per The Block and Gambling Insider; exact Series A size (~$25M) per reporting, requires verification."
+  },
+  {
+    "id": "blockchain_capital",
+    "label": "Blockchain Capital",
+    "category": "investors",
+    "size": 22,
+    "role": "Co-anchored Polymarket's ~$205M 2025 bridge round",
+    "bio": "Crypto-focused venture firm that, with General Catalyst, co-anchored Polymarket's ~$205M bridge round in mid-2025, helping carry the platform toward a reported $9B+ valuation ahead of ICE's strategic investment.",
+    "sources": [
+      {
+        "text": "Gambling Insider - Who Owns Polymarket? Founders, Investors & Key Backers in 2026",
+        "url": "https://www.gamblinginsider.com/in-depth/117118/who-owns-polymarket"
+      },
+      {
+        "text": "Public Gaming Research Institute - Who Owns Polymarket? Founders, Investors & Key Backers in 2026",
+        "url": "https://publicgaming.com/news-categories-m/financial/15618-who-owns-polymarket-founders-investors-key-backers-in-2026"
+      }
+    ],
+    "verification": "Verified: Blockchain Capital co-anchored Polymarket's ~$205M 2025 bridge round per Gambling Insider and Public Gaming Research Institute; round size approximate, requires verification."
+  },
+  {
+    "id": "one_confirmation",
+    "label": "1confirmation\n(Nick Tomaino)",
+    "category": "investors",
+    "size": 22,
+    "role": "Crypto VC (Nick Tomaino); participated in every Polymarket round from seed to Series B",
+    "bio": "Crypto venture fund led by Nick Tomaino, an early Coinbase employee. 1confirmation is one of Polymarket's most consistent backers, reported to have participated in every round from seed through the 2024 Series B -- a long-horizon crypto-native investor in Kalshi's chief rival.",
+    "sources": [
+      {
+        "text": "The Block - Polymarket raises $45 million from Founders Fund, Vitalik Buterin and others (1confirmation in every round)",
+        "url": "https://www.theblock.co/post/294367/polymarket-raises-45-million-from-peter-thiels-founders-fund-vitalik-buterin-and-others"
+      }
+    ],
+    "verification": "Verified: 1confirmation (Nick Tomaino) participated in Polymarket rounds seed through Series B per The Block."
+  },
+  {
+    "id": "joe_gebbia",
+    "label": "Joe Gebbia\n(Airbnb)",
+    "category": "investors",
+    "size": 24,
+    "role": "Airbnb co-founder; Polymarket Series A backer; Trump-administration official (DOGE; first federal Chief Design Officer)",
+    "bio": "Airbnb co-founder and Tesla board member who backed Polymarket's ~$25M Series A. Politically, Gebbia joined Elon Musk's Department of Government Efficiency (DOGE) in early 2025 and in August 2025 was appointed the U.S. government's first Chief Design Officer, leading the new National Design Studio. He is Polymarket's counterpart to Kalshi's administration insiders (Donald Trump Jr., Samantha Schwab): a backer of a prediction-market platform who simultaneously holds a role inside the Trump administration.",
+    "sources": [
+      {
+        "text": "The Block - Polymarket raises $45 million... (Series A led by General Catalyst with Airbnb's Joe Gebbia)",
+        "url": "https://www.theblock.co/post/294367/polymarket-raises-45-million-from-peter-thiels-founders-fund-vitalik-buterin-and-others"
+      },
+      {
+        "text": "Newsweek - Trump Taps Airbnb Co-Founder Joe Gebbia as Chief Design Officer for Federal Websites (Aug 2025)",
+        "url": "https://www.newsweek.com/trump-taps-airbnb-cofounder-joe-gebbia-chief-design-officer-federal-websites-2118380"
+      },
+      {
+        "text": "Nextgov/FCW - Airbnb co-founder and DOGE associate to head new federal design office",
+        "url": "https://www.nextgov.com/people/2025/08/airbnb-co-founder-and-doge-associate-head-new-federal-design-office/407652/"
+      }
+    ],
+    "verification": "Verified: Joe Gebbia backed Polymarket's Series A per The Block; joined DOGE (early 2025) and appointed first federal Chief Design Officer (Aug 2025) per Newsweek and Nextgov."
+  },
+  {
+    "id": "kevin_hartz",
+    "label": "Kevin Hartz\n(Eventbrite)",
+    "category": "investors",
+    "size": 20,
+    "role": "Eventbrite co-founder; investor in Polymarket's 2024 Series B",
+    "bio": "Serial entrepreneur and investor, co-founder of Eventbrite and Xoom, who participated in Polymarket's $45M Series B (2024) alongside Founders Fund, Vitalik Buterin, 1confirmation, ParaFi and Dragonfly.",
+    "sources": [
+      {
+        "text": "The Block - Polymarket raises $45 million from Founders Fund, Vitalik Buterin and others (incl. Eventbrite's Kevin Hartz)",
+        "url": "https://www.theblock.co/post/294367/polymarket-raises-45-million-from-peter-thiels-founders-fund-vitalik-buterin-and-others"
+      }
+    ],
+    "verification": "Verified: Kevin Hartz (Eventbrite co-founder) participated in Polymarket's 2024 Series B per The Block."
   }
 ]
